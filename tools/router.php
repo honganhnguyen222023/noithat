@@ -16,6 +16,13 @@ if ( $path !== '/' && file_exists( $file ) ) {
 	return false;
 }
 
+// Trang quản trị bị mở nhầm ở gốc (vd /edit.php do link cũ/bookmark) → /wp-admin/edit.php.
+if ( preg_match( '#^/[\w.-]+\.php$#', $path ) && is_file( $_SERVER['DOCUMENT_ROOT'] . '/wp-admin' . $path ) ) {
+	$query = isset( $_SERVER['QUERY_STRING'] ) && $_SERVER['QUERY_STRING'] !== '' ? '?' . $_SERVER['QUERY_STRING'] : '';
+	header( 'Location: /wp-admin' . $path . $query, true, 302 );
+	exit;
+}
+
 // Còn lại (đường dẫn đẹp của WordPress) → index.php.
 $_SERVER['SCRIPT_NAME'] = '/index.php';
 require $_SERVER['DOCUMENT_ROOT'] . '/index.php';
