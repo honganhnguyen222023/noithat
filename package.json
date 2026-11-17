@@ -1,0 +1,27 @@
+{
+  "name": "iris-noithat",
+  "version": "1.0.0",
+  "description": "Theme WordPress nội thất IRIS (Tailwind CSS)",
+  "scripts": {
+    "build": "node tools/build-icons.mjs && tailwindcss -i iris/assets/css/src.css -o iris/assets/css/app.css --minify && esbuild iris/assets/js/app.js --minify --target=es2019 --outfile=iris/assets/js/app.min.js",
+    "dev": "tailwindcss -i iris/assets/css/src.css -o iris/assets/css/app.css --watch",
+    "zip": "npm run build && node tools/make-zip.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honganhnguyen222023/noithat.git"
+  },
+  "bugs": {
+    "url": "https://github.com/honganhnguyen222023/noithat/issues"
+  },
+  "homepage": "https://github.com/honganhnguyen222023/noithat#readme",
+  "devDependencies": {
+    "@fontsource/be-vietnam-pro": "^5.3.0",
+    "@tailwindcss/cli": "^4.3.5",
+    "adm-zip": "^0.6.1",
+    "esbuild": "^0.25.12",
+    "lucide-static": "^1.74.0",
+    "tailwindcss": "^4.3.5"
+  },
+  "private": true
+}

@@ -1,0 +1,35 @@
+{
+  "$schema": "https://playground.wordpress.net/blueprint-schema.json",
+  "meta": {
+    "title": "IRIS Nội Thất – bản chạy thử",
+    "description": "WordPress + WooCommerce + theme IRIS + dữ liệu mẫu, chạy ngay trong trình duyệt.",
+    "author": "IRIS"
+  },
+  "landingPage": "/",
+  "preferredVersions": { "php": "8.3", "wp": "latest" },
+  "features": { "networking": true },
+  "login": true,
+  "steps": [
+    { "step": "setSiteLanguage", "language": "vi" },
+    {
+      "step": "installPlugin",
+      "pluginData": { "resource": "wordpress.org/plugins", "slug": "woocommerce" },
+      "options": { "activate": true }
+    },
+    {
+      "step": "installTheme",
+      "themeData": {
+        "resource": "git:directory",
+        "url": "https://github.com/honganhnguyen222023/noithat",
+        "ref": "main",
+        "refType": "branch",
+        "path": "iris"
+      },
+      "options": { "activate": true }
+    },
+    {
+      "step": "runPHP",
+      "code": "<?php require '/wordpress/wp-load.php'; if ( function_exists( 'iris_import_demo' ) ) { iris_import_demo(); }"
+    }
+  ]
+}

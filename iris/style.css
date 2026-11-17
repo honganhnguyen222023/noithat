@@ -1,0 +1,15 @@
+/*
+Theme Name: IRIS Nội Thất
+Theme URI: https://github.com/honganhnguyen222023/noithat
+Author: IRIS
+Description: Theme WordPress + WooCommerce cho cửa hàng nội thất, dựng bằng Tailwind CSS. Toàn bộ nội dung trang chủ chỉnh trong Giao diện → Tùy biến; sản phẩm quản lý bằng WooCommerce; có sẵn dữ liệu mẫu nhập 1 cú bấm (Giao diện → Nhập dữ liệu mẫu).
+Version: 1.0.0
+Requires at least: 6.5
+Requires PHP: 8.0
+Tested up to: 7.1
+WC requires at least: 9.0
+License: GPL-2.0-or-later
+Text Domain: iris
+*/
+
+/* Styles live in assets/css/app.css (built from assets/css/src.css by Tailwind). */
