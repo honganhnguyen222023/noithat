@@ -39,6 +39,9 @@ function iris_customizer_fields(): array {
 				'footer_title_map' => [ 'Tiêu đề cột bản đồ', 'text', 'Google Map' ],
 				'copyright'     => [ 'Dòng bản quyền', 'text', '© Bản quyền thuộc về Nội thất IRIS' ],
 				'show_floating' => [ 'Hiện nút liên hệ nổi (Gọi, Zalo, Messenger)', 'checkbox', true ],
+				'mega_view_all'   => [ 'Menu Sản phẩm: chữ trước tên danh mục ở dòng đầu (vd "Xem tất cả")', 'text', 'Xem tất cả' ],
+				'mega_label'      => [ 'Menu Sản phẩm: tiêu đề nhóm danh mục con (để trống = ẩn)', 'text', 'Theo loại' ],
+				'mega_collection' => [ 'Menu Sản phẩm: chữ dưới ảnh (vd "Bộ sưu tập")', 'text', 'Bộ sưu tập' ],
 			],
 		],
 		'iris_home_hero' => [

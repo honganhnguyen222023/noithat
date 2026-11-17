@@ -17,6 +17,22 @@
   onScroll();
   backTop?.addEventListener('click', () => scrollTo({ top: 0, behavior: reduced ? 'auto' : 'smooth' }));
 
+  /* ---------- Mega menu: di chuột / focus vào danh mục bên trái → đổi bảng bên phải ---------- */
+  $$('[data-mega]').forEach((mega) => {
+    const tabs = $$('[data-mega-tab]', mega);
+    const activate = (tab) => tabs.forEach((t) => {
+      const on = t === tab;
+      t.classList.toggle('is-active', on);
+      t.setAttribute('aria-selected', on ? 'true' : 'false');
+      const panel = document.getElementById(t.getAttribute('aria-controls'));
+      if (panel) panel.hidden = !on;
+    });
+    tabs.forEach((t) => {
+      t.addEventListener('mouseenter', () => activate(t));
+      t.addEventListener('focus', () => activate(t));
+    });
+  });
+
   /* ---------- Mobile drawer ---------- */
   const drawer = $('[data-drawer]');
   let lastFocus = null;
