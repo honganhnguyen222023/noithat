@@ -156,7 +156,7 @@
   .hero__scroll { @apply absolute bottom-6 left-1/2 flex size-11 -translate-x-1/2 items-center justify-center rounded-full border border-white/50 text-white transition hover:bg-white/15 max-lg:hidden; animation: bob 2.2s ease-in-out infinite; }
 
   /* About */
-  .about-panel { @apply bg-white px-5 py-10 sm:px-10 lg:my-0 lg:bg-[linear-gradient(90deg,#fff_0%,#fff_34%,rgb(255_255_255/.72)_56%,rgb(255_255_255/.45)_100%)] lg:py-[45px]; }
+  .about-panel { @apply bg-white/[.81] px-5 py-8 sm:p-10; }
 
   /* Category circles */
   .cat-circle { @apply relative block shrink-0 snap-start; }
