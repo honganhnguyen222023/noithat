@@ -34,4 +34,4 @@ fi
 echo ""
 echo "WordPress: http://localhost:$PORT   (quản trị: /wp-admin – admin / admin123)"
 echo "Dừng: Ctrl+C"
-php -S "localhost:$PORT" -t "$WP_DIR"
+php -S "localhost:$PORT" -t "$WP_DIR" "$ROOT/tools/router.php"
