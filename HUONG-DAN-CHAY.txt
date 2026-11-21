@@ -1,0 +1,42 @@
+HƯỚNG DẪN CHẠY WEBSITE NỘI THẤT IRIS (BẢN NODE.JS)
+==================================================
+
+Sau khi chạy:
+  - Website:   http://localhost:3000
+  - Quản trị:  http://localhost:3000/quan-tri/
+Tài khoản thử (chỉ dùng trên máy):
+  - Quản trị:   admin / admin
+  - Khách hàng: khachhang / khachhang123
+
+MÁY MAC
+  1. Cài Node.js 22 "LTS" tại https://nodejs.org (nếu chưa có).
+  2. Bấm đúp file  Chay-website.command
+     (Nếu Mac chặn: chuột phải vào file → Open → Open.)
+  3. Lần đầu đợi vài phút để cài thư viện, trình duyệt tự mở website.
+  Tắt website: đóng cửa sổ Terminal.
+
+MÁY WINDOWS
+  1. Cài Node.js 22 LTS tại https://nodejs.org, cài xong khởi động lại máy.
+  2. Giải nén thư mục website vào ổ C, ví dụ C:\noithat-node
+  3. Bấm đúp file  Chay-website.bat
+  4. Lần đầu cần Internet, đợi 2–5 phút. Trình duyệt tự mở website.
+  Tắt website: đóng cửa sổ màu đen.
+
+LÀM VIỆC HẰNG NGÀY TRONG QUẢN TRỊ
+  - Đơn hàng mới: mục "Đơn hàng" → gọi khách → "Xác nhận đơn" → nhập phí giao hàng
+    → "Bắt đầu giao hàng" → "Đã giao xong". Chuyển khoản: bấm "Đã nhận đủ tiền".
+  - Thêm sản phẩm: "Sản phẩm" → "Thêm sản phẩm". Sản phẩm có nhiều màu: chọn
+    "Có nhiều mẫu" rồi bấm "Thêm mẫu" cho từng màu (mỗi mẫu có ảnh, giá riêng).
+  - Sửa chữ / ảnh trang chủ, trang Giới thiệu, Liên hệ: "Nội dung website".
+  - Tài khoản nhận tiền (hiện mã QR cho khách): "Thanh toán & cài đặt".
+  - Khách quên mật khẩu: "Khách hàng" → "Đổi mật khẩu" → báo mật khẩu mới cho khách.
+  - Đổi tên / mật khẩu admin: "Tài khoản của tôi" (nhớ đổi trước khi đưa lên mạng).
+
+GỬI EMAIL (không bắt buộc)
+  Mở file .env (file ẩn) bằng TextEdit / Notepad, điền SMTP_HOST, SMTP_USER, SMTP_PASS
+  (Gmail: smtp.gmail.com, cổng 587, mật khẩu ứng dụng 16 chữ). Chưa điền: email chỉ lưu
+  lại ở Quản trị → Thanh toán & cài đặt → Email đã gửi.
+
+VỀ LẠI DỮ LIỆU BAN ĐẦU
+  Tắt website, xóa file prisma/noithat.db rồi chạy lại: website tự tạo lại dữ liệu
+  chuyển từ bản WordPress (mọi thay đổi đã làm sẽ mất).

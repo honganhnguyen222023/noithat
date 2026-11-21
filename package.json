@@ -1,0 +1,33 @@
+{
+  "name": "noithat-node",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Nội Thất IRIS viết lại bằng Node.js (Next.js + Prisma)",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "typecheck": "tsc --noEmit",
+    "db:push": "prisma db push --skip-generate && prisma generate",
+    "db:studio": "prisma studio",
+    "import:data": "node scripts/import-data.mjs",
+    "setup": "npm run db:push && npm run import:data"
+  },
+  "engines": { "node": ">=18.18" },
+  "dependencies": {
+    "@prisma/client": "6.19.3",
+    "bcryptjs": "3.0.3",
+    "next": "15.5.29",
+    "nodemailer": "6.10.1",
+    "react": "19.1.10",
+    "react-dom": "19.1.10"
+  },
+  "devDependencies": {
+    "@types/node": "22.19.1",
+    "@types/nodemailer": "6.4.17",
+    "@types/react": "19.1.17",
+    "@types/react-dom": "19.1.11",
+    "prisma": "6.19.3",
+    "typescript": "5.9.3"
+  }
+}
