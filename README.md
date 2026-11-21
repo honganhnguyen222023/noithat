@@ -5,6 +5,7 @@ Giao diện giữ nguyên như bản WordPress (dùng lại CSS, font, icon, Jav
 
 ## Chạy trên máy
 
+- Hướng dẫn chép sang máy Windows: `HUONG-DAN-CHAY-WINDOWS.md` · Hướng dẫn dùng quản trị: `HUONG-DAN-QUAN-TRI.md`
 - Mac: bấm đúp `Chay-website.command`
 - Windows: bấm đúp `Chay-website.bat`
 - Hoặc gõ lệnh: `npm install` → `npm run setup` (lần đầu) → `npm run dev`
