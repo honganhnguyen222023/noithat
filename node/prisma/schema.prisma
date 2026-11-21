@@ -1,0 +1,261 @@
+// Cơ sở dữ liệu Nội Thất IRIS (bản Node.js).
+// Trên máy: SQLite (file prisma/noithat.db). Lên server: đổi provider thành "postgresql"
+// và DATABASE_URL trong .env, rồi chạy: npm run db:push
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Cài đặt (JSON): nội dung website (giống Giao diện → Tùy biến), menu, thanh toán…
+model Setting {
+  key   String @id
+  value String
+}
+
+model User {
+  id           Int      @id @default(autoincrement())
+  login        String   @unique
+  email        String   @unique
+  name         String
+  phone        String   @default("")
+  address      String   @default("")
+  passwordHash String
+  role         String   @default("customer") // admin | staff | customer
+  createdAt    DateTime @default(now())
+
+  sessions Session[]
+  resets   PasswordReset[]
+  orders   Order[]
+}
+
+model Session {
+  id        String   @id
+  userId    Int
+  kind      String   @default("site") // site = website | admin = trang quản trị
+  device    String   @default("")
+  expiresAt DateTime
+  createdAt DateTime @default(now())
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+}
+
+model PasswordReset {
+  id        String   @id
+  userId    Int
+  expiresAt DateTime
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+// Danh mục sản phẩm (có cấp cha – con).
+model Category {
+  id          Int      @id @default(autoincrement())
+  name        String
+  slug        String   @unique
+  parentId    Int?
+  description String   @default("")
+  sortOrder   Int      @default(0)
+  image       String   @default("")
+  bannerTitle String   @default("")
+  bannerText  String   @default("")
+  bannerImage String   @default("")
+  parent      Category?  @relation("CatTree", fields: [parentId], references: [id], onDelete: SetNull)
+  children    Category[] @relation("CatTree")
+  products    ProductCategory[]
+}
+
+// Thuộc tính dùng để lọc / chọn mẫu: Màu sắc, Chất liệu…
+model Attribute {
+  id       Int        @id @default(autoincrement())
+  key      String     @unique // vd "pa_mau-sac"
+  label    String
+  filter   Boolean    @default(true) // hiện ở bộ lọc trang danh mục
+  terms    AttrTerm[]
+}
+
+model AttrTerm {
+  id          Int       @id @default(autoincrement())
+  attributeId Int
+  slug        String
+  name        String
+  sortOrder   Int       @default(0)
+  attribute   Attribute @relation(fields: [attributeId], references: [id], onDelete: Cascade)
+
+  @@unique([attributeId, slug])
+}
+
+model Product {
+  id           Int      @id @default(autoincrement())
+  slug         String   @unique
+  name         String
+  status       String   @default("publish") // publish | draft
+  type         String   @default("simple") // simple | variable (có nhiều mẫu)
+  content      String   @default("") // HTML "Câu chuyện sản phẩm"
+  short        String   @default("") // mô tả ngắn
+  specs        String   @default("") // thông số kỹ thuật (mỗi dòng "Tên: giá trị")
+  regularPrice Int?
+  salePrice    Int?
+  sku          String   @default("")
+  stock        String   @default("instock") // instock | outofstock
+  image        String   @default("")
+  gallery      String   @default("[]") // JSON: ["/uploads/…", …]
+  attrs        String   @default("{}") // JSON: { "pa_mau-sac": ["nau","trang"] }
+  featured     Boolean  @default(false)
+  sortOrder    Int      @default(0)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  categories ProductCategory[]
+  variations Variation[]
+  orderItems OrderItem[]
+}
+
+model ProductCategory {
+  productId  Int
+  categoryId Int
+  product    Product  @relation(fields: [productId], references: [id], onDelete: Cascade)
+  category   Category @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([productId, categoryId])
+}
+
+// Mẫu (biến thể) của sản phẩm: mỗi mẫu có giá, ảnh riêng.
+model Variation {
+  id           Int     @id @default(autoincrement())
+  productId    Int
+  attrs        String  @default("{}") // JSON: { "pa_mau-sac": "nau" }
+  regularPrice Int?
+  salePrice    Int?
+  image        String  @default("")
+  sku          String  @default("")
+  stock        String  @default("instock")
+  sortOrder    Int     @default(0)
+  product      Product @relation(fields: [productId], references: [id], onDelete: Cascade)
+}
+
+model Order {
+  id            Int       @id @default(autoincrement())
+  userId        Int?
+  status        String    @default("pending") // pending | processing | shipping | completed | cancelled
+  subtotal      Int
+  shipping      Int       @default(0)
+  total         Int
+  paymentMethod String    @default("cod") // cod | bacs
+  paymentTitle  String    @default("")
+  name          String
+  phone         String
+  email         String    @default("")
+  address       String    @default("")
+  note          String    @default("")
+  paid          Boolean   @default(false)
+  createdAt     DateTime  @default(now())
+  user          User?     @relation(fields: [userId], references: [id], onDelete: SetNull)
+  items         OrderItem[]
+  notes         OrderNote[]
+
+  @@index([status])
+}
+
+model OrderItem {
+  id          Int      @id @default(autoincrement())
+  orderId     Int
+  productId   Int?
+  variationId Int?
+  name        String
+  variant     String   @default("") // vd "Màu sắc: Nâu"
+  image       String   @default("")
+  price       Int
+  qty         Int
+  total       Int
+  order       Order    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+  product     Product? @relation(fields: [productId], references: [id], onDelete: SetNull)
+}
+
+model OrderNote {
+  id        Int      @id @default(autoincrement())
+  orderId   Int
+  content   String
+  author    String   @default("system")
+  createdAt DateTime @default(now())
+  order     Order    @relation(fields: [orderId], references: [id], onDelete: Cascade)
+}
+
+// Blog.
+model BlogCategory {
+  id          Int            @id @default(autoincrement())
+  name        String
+  slug        String         @unique
+  description String         @default("")
+  posts       PostCategory[]
+}
+
+model Post {
+  id        Int            @id @default(autoincrement())
+  slug      String         @unique
+  title     String
+  content   String         @default("")
+  excerpt   String         @default("")
+  image     String         @default("")
+  status    String         @default("publish")
+  createdAt DateTime       @default(now())
+  updatedAt DateTime       @updatedAt
+  categories PostCategory[]
+}
+
+model PostCategory {
+  postId     Int
+  categoryId Int
+  post       Post         @relation(fields: [postId], references: [id], onDelete: Cascade)
+  category   BlogCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+
+  @@id([postId, categoryId])
+}
+
+// Trang (chính sách, giới thiệu, liên hệ…). template: about | contact | "" (trang thường).
+model Page {
+  id        Int      @id @default(autoincrement())
+  slug      String   @unique
+  title     String
+  content   String   @default("")
+  template  String   @default("")
+  status    String   @default("publish")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
+// Phản hồi khách hàng (trang chủ, trang sản phẩm).
+model Testimonial {
+  id        Int    @id @default(autoincrement())
+  name      String
+  role      String @default("")
+  content   String @default("")
+  image     String @default("")
+  sortOrder Int    @default(0)
+}
+
+// Tin nhắn liên hệ.
+model Contact {
+  id        Int      @id @default(autoincrement())
+  name      String
+  phone     String   @default("")
+  email     String   @default("")
+  message   String   @default("")
+  source    String   @default("")
+  status    String   @default("new") // new | done
+  createdAt DateTime @default(now())
+}
+
+model EmailLog {
+  id        Int      @id @default(autoincrement())
+  to        String
+  subject   String
+  body      String
+  sent      Boolean  @default(false)
+  error     String   @default("")
+  createdAt DateTime @default(now())
+}

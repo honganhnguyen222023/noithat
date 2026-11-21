@@ -4,6 +4,8 @@ Theme WordPress dựng lại giao diện mẫu [webnoithat.giaodien.asia](https:
 
 > ⚠️ Ảnh và nội dung mẫu được lấy từ trang demo để **học/thử nghiệm**. Trước khi chạy website thật, hãy thay bằng ảnh và nội dung của bạn.
 
+> **Bản Node.js (Next.js + Prisma)** của website này nằm trong thư mục [`node/`](node/): viết lại cả website và trang quản trị, chạy độc lập không cần WordPress, giữ nguyên giao diện IRIS. Xem [`node/README.md`](node/README.md), [`node/HUONG-DAN-CHAY-WINDOWS.md`](node/HUONG-DAN-CHAY-WINDOWS.md), [`node/HUONG-DAN-QUAN-TRI.md`](node/HUONG-DAN-QUAN-TRI.md).
+
 ---
 
 ## Mục lục

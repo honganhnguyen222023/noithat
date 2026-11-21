@@ -1,0 +1,40 @@
+/* Trang quản trị – phần riêng của web nội thất (màu vàng đồng IRIS, nhiều ảnh, soạn nội dung, mẫu sản phẩm). */
+:root { --kh-primary: #9f7f48; --kh-primary-dark: #7d6235; --kh-primary-soft: #f4eee3; --kh-deep: #1f2a35; --kh-mint: #e2cfa6; }
+.qt-nav-group { margin: 14px 14px 4px; font-size: 11px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: rgba(255, 255, 255, .45); }
+.qt-gallery-list { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 8px; }
+.qt-gallery-list figure { position: relative; width: 92px; height: 92px; margin: 0; border: 1px solid var(--qt-line); border-radius: 10px; overflow: hidden; background: #f6f6f4; }
+.qt-gallery-list img { width: 100%; height: 100%; object-fit: contain; }
+.qt-gallery-list button { position: absolute; top: 4px; width: 24px; height: 24px; border-radius: 50%; background: rgba(0, 0, 0, .6); color: #fff; font-size: 16px; line-height: 1; display: grid; place-items: center; border: 0; cursor: pointer; }
+.qt-gallery-list [data-qt-gallery-del] { right: 4px; }
+.qt-gallery-list [data-qt-gallery-left] { left: 4px; }
+.qt-gallery-list figure:first-child [data-qt-gallery-left] { display: none; }
+.qt-editor { border: 1px solid var(--qt-line); border-radius: 10px; overflow: hidden; background: #fff; }
+.qt-editor-bar { display: flex; flex-wrap: wrap; gap: 4px; padding: 6px; border-bottom: 1px solid var(--qt-line); background: #fafaf8; position: sticky; top: 0; z-index: 2; }
+.qt-editor-bar button { min-width: 34px; height: 32px; padding: 0 9px; border-radius: 6px; border: 1px solid transparent; background: none; font-size: 13.5px; cursor: pointer; color: var(--qt-text); }
+.qt-editor-bar button:hover, .qt-editor-bar button.is-on { background: var(--qt-primary-soft); border-color: var(--qt-line); }
+.qt-editor-area { min-height: 220px; max-height: 70vh; overflow: auto; padding: 14px 16px; outline: none; font-size: 15px; line-height: 1.65; }
+.qt-editor-area h2 { font-size: 21px; margin: 16px 0 8px; }
+.qt-editor-area h3 { font-size: 17.5px; margin: 14px 0 6px; }
+.qt-editor-area p { margin: 0 0 10px; }
+.qt-editor-area ul, .qt-editor-area ol { padding-left: 22px; margin: 0 0 10px; }
+.qt-editor-area img { max-width: 100%; height: auto; border-radius: 6px; }
+.qt-editor-area a { color: var(--qt-primary); text-decoration: underline; }
+.qt-editor-src { display: block; width: 100%; min-height: 260px; border: 0; padding: 12px; font: 13px/1.5 ui-monospace, Menlo, monospace; }
+.qt-var { display: grid; grid-template-columns: 92px 1fr auto; gap: 12px; align-items: start; padding: 14px; border: 1px solid var(--qt-line); border-radius: 12px; background: #fcfcfb; }
+.qt-var + .qt-var { margin-top: 10px; }
+.qt-var-fields { display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 10px; }
+.qt-var .qt-field { margin: 0; }
+.qt-var .qt-image-preview { width: 92px; height: 92px; }
+.qt-thumb-sm { width: 52px; height: 52px; border-radius: 8px; object-fit: contain; background: #f6f6f4; border: 1px solid var(--qt-line); flex: none; }
+.qt-indent { padding-left: 26px; }
+.qt-menu-help code { background: var(--qt-primary-soft); padding: 1px 5px; border-radius: 4px; }
+@media (max-width: 640px) { .qt-var { grid-template-columns: 1fr; } }
+.qt-pre { white-space: pre-wrap; background: #fafaf8; border: 1px solid var(--qt-line); border-radius: 8px; padding: 10px 12px; font: 13px/1.6 ui-monospace, Menlo, monospace; max-height: 340px; overflow: auto; }
+.qt-price-cell del { color: var(--qt-muted); font-size: 13px; margin-right: 4px; }
+.qt-price-cell ins { text-decoration: none; font-weight: 700; }
+.qt-price-cell .sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); }
+.qt-var { grid-template-columns: 110px 1fr auto; }
+.qt-var .qt-image { display: flex; flex-direction: column; gap: 6px; align-items: stretch; }
+.qt-var .qt-image-preview { width: 110px; height: 92px; }
+.qt-var .qt-image-btns { display: flex; flex-direction: column; gap: 4px; }
+.qt-var .qt-image-btns .qt-btn { width: 100%; justify-content: center; padding: 0 6px; font-size: 12.5px; }
