@@ -1,0 +1,1690 @@
+{
+ "exportedAt": "2026-11-21T09:22:16.569Z",
+ "site": {
+  "custom_logo": "/uploads/2026/11/logo-mau.webp",
+  "logo_light": "/uploads/2026/11/logo.webp",
+  "hero_image": "/uploads/2026/11/banner-home-1.webp",
+  "about_image": "/uploads/2026/11/gioi-thieu-iris.webp",
+  "video_image": "/uploads/2026/11/dab27b049359661131b1d2d09a71c1d5.webp",
+  "brands": [
+   "/uploads/2026/11/img-brand-10.webp",
+   "/uploads/2026/11/img-brand-1.webp",
+   "/uploads/2026/11/img-brand-2.webp",
+   "/uploads/2026/11/img-brand-3.webp",
+   "/uploads/2026/11/img-brand-4.webp",
+   "/uploads/2026/11/img-brand-5.webp",
+   "/uploads/2026/11/img-brand-6.webp",
+   "/uploads/2026/11/img-brand-7.webp",
+   "/uploads/2026/11/img-brand-8.webp",
+   "/uploads/2026/11/img-brand-9.webp"
+  ],
+  "press": [
+   "/uploads/2026/11/logo-bao-1.webp",
+   "/uploads/2026/11/logo-bao-2.webp",
+   "/uploads/2026/11/logo-bao-3.webp",
+   "/uploads/2026/11/logo-bao-4-1024x573-1.webp"
+  ],
+  "instagram": [
+   "/uploads/2026/11/instagram-1.webp",
+   "/uploads/2026/11/instagram-2-1.webp",
+   "/uploads/2026/11/instagram-3.webp",
+   "/uploads/2026/11/instagram-4.webp",
+   "/uploads/2026/11/instagram-5.webp",
+   "/uploads/2026/11/instagram-6.webp"
+  ],
+  "cats_exclude": "",
+  "room_1": "phong-khach",
+  "room_2": "phong-an",
+  "room_3": "phong-ngu",
+  "ab_service_1": "phong-an",
+  "ab_service_2": "phong-khach",
+  "ab_service_3": "phong-lam-viec",
+  "ab_banner": "/uploads/2026/11/slideshow-1-1-2.webp",
+  "ct_banner": "/uploads/2026/11/slideshow-1-1-2.webp",
+  "ab_image_1": "/uploads/2026/11/block-home-category2-img.webp",
+  "ab_image_2": "/uploads/2026/11/slideshow-1-1.webp",
+  "ct_follow": [
+   "/uploads/2026/11/instagram-4.webp",
+   "/uploads/2026/11/instagram-5.webp",
+   "/uploads/2026/11/instagram-6.webp"
+  ],
+  "site_name": "Nội Thất IRIS",
+  "site_tagline": "Với sứ mệnh kiến tạo không gian sống với tinh hoa thiết kế Ý",
+  "favicon": "/uploads/2026/11/favicon.png"
+ },
+ "menus": {
+  "primary": [
+   {
+    "title": "Về chúng tôi",
+    "url": "/gioi-thieu/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Sản Phẩm",
+    "url": "/cua-hang/",
+    "target": "",
+    "object": "custom",
+    "catSlug": "",
+    "children": [
+     {
+      "title": "Bàn Ăn",
+      "url": "/danh-muc-san-pham/ban-an/",
+      "target": "",
+      "object": "product_cat",
+      "catSlug": "ban-an",
+      "children": [
+       {
+        "title": "Bàn Ăn 6 Ghế",
+        "url": "/danh-muc-san-pham/ban-an-6-ghe/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-6-ghe",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn 8 Ghế",
+        "url": "/danh-muc-san-pham/ban-an-8-ghe/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-8-ghe",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn 10 Ghế",
+        "url": "/danh-muc-san-pham/ban-an-10-ghe/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-10-ghe",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn 12 Ghế",
+        "url": "/danh-muc-san-pham/ban-an-12-ghe/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-12-ghe",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn Lớn",
+        "url": "/danh-muc-san-pham/ban-an-lon/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-lon",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn Kéo Dài",
+        "url": "/danh-muc-san-pham/ban-an-keo-dai/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-keo-dai",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn Mặt Đá",
+        "url": "/danh-muc-san-pham/ban-an-mat-da/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-mat-da",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn Nhập Khẩu",
+        "url": "/danh-muc-san-pham/ban-an-nhap-khau/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-nhap-khau",
+        "children": []
+       },
+       {
+        "title": "Bàn Ăn Tròn",
+        "url": "/danh-muc-san-pham/ban-an-tron/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-an-tron",
+        "children": []
+       }
+      ]
+     },
+     {
+      "title": "Bàn Trà",
+      "url": "/danh-muc-san-pham/ban-tra/",
+      "target": "",
+      "object": "product_cat",
+      "catSlug": "ban-tra",
+      "children": [
+       {
+        "title": "Bàn Trà Mặt Đá",
+        "url": "/danh-muc-san-pham/ban-tra-mat-da-ban/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ban-tra-mat-da-ban",
+        "children": []
+       },
+       {
+        "title": "Bàn Trà Nhập Khẩu",
+        "url": "/danh-muc-san-pham/tra-nhap-khau/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "tra-nhap-khau",
+        "children": []
+       }
+      ]
+     },
+     {
+      "title": "Ghế Ăn",
+      "url": "/danh-muc-san-pham/ghe-an/",
+      "target": "",
+      "object": "product_cat",
+      "catSlug": "ghe-an",
+      "children": [
+       {
+        "title": "Ghế Ăn Bọc Da",
+        "url": "/danh-muc-san-pham/ghe-an-boc-da/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ghe-an-boc-da",
+        "children": []
+       },
+       {
+        "title": "Ghế Ăn Minotti",
+        "url": "/danh-muc-san-pham/ghe-an-minotti/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ghe-an-minotti",
+        "children": []
+       },
+       {
+        "title": "Ghế Ăn Visionnaire",
+        "url": "/danh-muc-san-pham/ghe-an-visionnaire/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "ghe-an-visionnaire",
+        "children": []
+       }
+      ]
+     },
+     {
+      "title": "Ghế sofa",
+      "url": "/danh-muc-san-pham/ghe-sofa/",
+      "target": "",
+      "object": "product_cat",
+      "catSlug": "ghe-sofa",
+      "children": [
+       {
+        "title": "Sofa Chỉnh Điện",
+        "url": "/danh-muc-san-pham/sofa-chinh-dien/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "sofa-chinh-dien",
+        "children": []
+       },
+       {
+        "title": "Sofa Da",
+        "url": "/danh-muc-san-pham/sofa-da/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "sofa-da",
+        "children": []
+       },
+       {
+        "title": "Sofa Đức",
+        "url": "/danh-muc-san-pham/sofa-duc/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "sofa-duc",
+        "children": []
+       },
+       {
+        "title": "Sofa Minotti",
+        "url": "/danh-muc-san-pham/sofa-minotti/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "sofa-minotti",
+        "children": []
+       },
+       {
+        "title": "Sofa Văng",
+        "url": "/danh-muc-san-pham/sofa-vang/",
+        "target": "",
+        "object": "product_cat",
+        "catSlug": "sofa-vang",
+        "children": []
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "title": "Blog kiến thức",
+    "url": "/blog/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": [
+     {
+      "title": "Kiến thức nội thất",
+      "url": "/category/kien-thuc-noi-that/",
+      "target": "",
+      "object": "category",
+      "catSlug": "",
+      "children": []
+     },
+     {
+      "title": "Kiến thức Sofa",
+      "url": "/category/kien-thuc-sofa/",
+      "target": "",
+      "object": "category",
+      "catSlug": "",
+      "children": []
+     },
+     {
+      "title": "Kiến thức về Da",
+      "url": "/category/kien-thuc-ve-da/",
+      "target": "",
+      "object": "category",
+      "catSlug": "",
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "Chính Sách Mua Hàng",
+    "url": "#",
+    "target": "",
+    "object": "custom",
+    "catSlug": "",
+    "children": [
+     {
+      "title": "Chính sách bảo hành",
+      "url": "/chinh-sach-bao-hanh/",
+      "target": "",
+      "object": "page",
+      "catSlug": "",
+      "children": []
+     },
+     {
+      "title": "Chính sách bảo mật",
+      "url": "/chinh-sach-bao-mat/",
+      "target": "",
+      "object": "page",
+      "catSlug": "",
+      "children": []
+     },
+     {
+      "title": "Chính sách đổi trả",
+      "url": "/chinh-sach-doi-tra/",
+      "target": "",
+      "object": "page",
+      "catSlug": "",
+      "children": []
+     },
+     {
+      "title": "Chính sách kiểm hàng",
+      "url": "/chinh-sach-kiem-hang/",
+      "target": "",
+      "object": "page",
+      "catSlug": "",
+      "children": []
+     },
+     {
+      "title": "Chính sách thanh toán",
+      "url": "/chinh-sach-thanh-toan/",
+      "target": "",
+      "object": "page",
+      "catSlug": "",
+      "children": []
+     },
+     {
+      "title": "Chính sách vận chuyển",
+      "url": "/chinh-sach-van-chuyen/",
+      "target": "",
+      "object": "page",
+      "catSlug": "",
+      "children": []
+     }
+    ]
+   },
+   {
+    "title": "Liên hệ",
+    "url": "/lien-he/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   }
+  ],
+  "footer-1": [
+   {
+    "title": "Chính sách đổi trả",
+    "url": "/chinh-sach-doi-tra/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Chính sách bảo mật",
+    "url": "/chinh-sach-bao-mat/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Chính sách kiểm hàng",
+    "url": "/chinh-sach-kiem-hang/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Chính sách vận chuyển",
+    "url": "/chinh-sach-van-chuyen/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Chính sách thanh toán",
+    "url": "/chinh-sach-thanh-toan/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Chính sách bảo hành",
+    "url": "/chinh-sach-bao-hanh/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Bộ sưu tập",
+    "url": "/cua-hang/",
+    "target": "",
+    "object": "custom",
+    "catSlug": "",
+    "children": []
+   }
+  ],
+  "footer-2": [
+   {
+    "title": "Về chúng tôi",
+    "url": "/gioi-thieu/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Liên hệ",
+    "url": "/lien-he/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Kiến thức Sofa",
+    "url": "/category/kien-thuc-sofa/",
+    "target": "",
+    "object": "category",
+    "catSlug": "",
+    "children": []
+   }
+  ],
+  "footer-3": [
+   {
+    "title": "Đặt hàng & Thanh toán",
+    "url": "/chinh-sach-thanh-toan/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Vận chuyển & Giao hàng",
+    "url": "/chinh-sach-van-chuyen/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Dịch vụ bảo hành",
+    "url": "/chinh-sach-bao-hanh/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   },
+   {
+    "title": "Chính sách đổi hàng",
+    "url": "/chinh-sach-doi-tra/",
+    "target": "",
+    "object": "page",
+    "catSlug": "",
+    "children": []
+   }
+  ]
+ },
+ "productCats": [
+  {
+   "id": 15,
+   "name": "Chưa phân loại",
+   "slug": "chua-phan-loai",
+   "parent": 0,
+   "description": "",
+   "order": 0,
+   "image": "/uploads/2026/11/05-sofa-da-bo-nguyen-tam.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 24,
+   "name": "Bàn Ăn",
+   "slug": "ban-an",
+   "parent": 0,
+   "description": "",
+   "order": 1,
+   "image": "/uploads/2026/11/chat-lieu-ban-an-6-ghe-mat-da-thuong-la-082543.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 25,
+   "name": "Bàn Trà",
+   "slug": "ban-tra",
+   "parent": 0,
+   "description": "",
+   "order": 2,
+   "image": "/uploads/2026/11/thumb-category-ban-tra.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 26,
+   "name": "Ghế Ăn",
+   "slug": "ghe-an",
+   "parent": 0,
+   "description": "",
+   "order": 3,
+   "image": "/uploads/2026/11/ghe-an-thumb-2.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 27,
+   "name": "Ghế sofa",
+   "slug": "ghe-sofa",
+   "parent": 0,
+   "description": "<b>Sofa Da Thật Tại Iris – Chất Liệu Da Bò Ý Nguyên Tấm, Nhập Khẩu Trực Tiếp</b>\r\nSofa da thật cao cấp tại Iris sử dụng da bò nhập khẩu trực tiếp từ Ý và Đức — hai quốc gia sản xuất da bò chất lượng hàng đầu thế giới. Mỗi tấm da được kiểm định nghiêm ngặt về độ dày, độ mềm mại và tính thẩm mỹ trước khi đưa vào sản xuất, đảm bảo từng chiếc ghế sofa da cao cấp đến tay quý khách đều đạt chuẩn quốc tế.\r\nKhác với nhiều showroom nhập da rồi gia công trong nước, toàn bộ sofa da thật tại Iris được nhập khẩu nguyên chiếc từ nhà máy châu Âu. Điều này giữ nguyên chất lượng kết cấu, đường chỉ may và thiết kế gốc của từng thương hiệu — điều không thể đạt được khi sản xuất lại tại Việt Nam.\r\nSofa da IRIS được bọc hoàn toàn bằng chất liệu da thật Ý\r\n<b>Full-Grain Và Top-Grain – Hai Cấp Độ Da Bò Cao Nhất Iris Sử Dụng</b>\r\nFull-grain là cấp độ da cao nhất, giữ nguyên bề mặt tự nhiên của da bò mà không qua xử lý mài hay sơn phủ. Sofa da thật Full-grain có vân da độc đáo — không tấm nào giống tấm nào — và phát triển màu sắc riêng (patina) sau nhiều năm sử dụng. Đây là đặc điểm hoàn toàn vắng mặt ở da công nghiệp và da PU.\r\nTop-grain là cấp độ da cao cấp thứ hai, qua xử lý bề mặt nhẹ để đạt độ mịn đồng đều hơn trong khi vẫn giữ nguyên cấu trúc da tự nhiên. Ghế sofa da cao cấp Top-grain bền hơn với môi trường có ánh sáng mạnh và dễ bảo trì hơn cho gia đình có trẻ nhỏ. Cả hai cấp độ đều có mặt trong bộ sưu tập sofa da nhập khẩu tại Iris.\r\n<b>Da Bò Ý Và Da Bò Đức – Phân Biệt Xuất Xứ Trong Bộ Sưu Tập</b>\r\nDa bò Ý nổi tiếng với độ mềm mại vượt trội, màu sắc phong phú và đặc tính lên màu (patina) đặc trưng theo thời gian. Sofa da thật từ da bò Ý có cảm giác êm ái ngay từ lần đầu chạm vào — đây là lý do các thương hiệu luxury châu Âu như Minotti và Visionnaire đều ưu tiên nguồn da từ Ý.\r\nDa bò Đức có đặc điểm cứng hơn, màu sắc đồng đều và khả năng chống trầy xước tốt hơn. Bộ sưu tập <a href=\"https://noithatiris.vn/sofa-da/da-nhap-khau/\"><b>sofa da cao cấp nhập khẩu</b></a> tại Iris kết hợp cả hai nguồn da này, mang đến cho quý khách nhiều lựa chọn phù hợp với nhu cầu sử dụng và phong cách sống riêng.\r\nCông nghệ chỉnh điện được tích hợp trên sofa da\r\n<b>Bộ Sưu Tập Sofa Cao Cấp Tại Iris – Phong Cách Châu Âu Từ Minotti, Visionnaire</b>\r\nBộ sưu tập sofa cao cấp tại Iris quy tụ những thương hiệu thiết kế danh tiếng nhất châu Âu — từ <a href=\"https://noithatiris.vn/sofa-da/minotti/\"><b>Minotti</b></a> với phong cách đương đại tối giản đến Visionnaire với vẻ sang trọng baroque hiện đại. Mỗi mẫu sofa da thật tại Iris là sản phẩm của quá trình thiết kế công phu, sử dụng chất liệu cao cấp và gia công thủ công theo tiêu chuẩn Italy.\r\nNgoài các thương hiệu flagship, Iris còn phân phối sofa da nhập khẩu cao cấp từ Roberto Cavalli Home, B&amp;B Italia và Edra — những thương hiệu đại diện cho đỉnh cao thiết kế nội thất toàn cầu. Bộ sofa da cao cấp nào tại Iris cũng đều có thể truy xuất xuất xứ thương hiệu gốc, không phải hàng OEM hay tái sản xuất.",
+   "order": 4,
+   "image": "/uploads/2026/11/archibald-final.webp",
+   "bannerTitle": "SOFA DA ĐỨC",
+   "bannerText": "Sofa da Đức luôn là lựa chọn hàng đầu cho những ai tìm kiếm sự sang trọng, bền bỉ và an toàn tuyệt đối cho sức khỏe. Sofa da tiêu chuẩn Đức nổi bật với chất liệu da bò thật, khung thép không gỉ chắc chắn, đệm foam đàn hồi cao cấp và sản xuất theo công nghệ tiên tiến từ Đức. Nội thất IRIS chuyên kinh doanh các dòng sofa da cao cấp theo tiêu chuẩn Đức cho các căn hộ sang trọng, biệt thự, phòng chủ tịch,... theo phong cách hiện đại hoặc tối giản.",
+   "bannerImage": "/uploads/2026/11/05-sofa-da-bo-nguyen-tam-2.webp"
+  },
+  {
+   "id": 28,
+   "name": "Bàn Ăn 6 Ghế",
+   "slug": "ban-an-6-ghe",
+   "parent": 24,
+   "description": "",
+   "order": 5,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 29,
+   "name": "Bàn Ăn 8 Ghế",
+   "slug": "ban-an-8-ghe",
+   "parent": 24,
+   "description": "",
+   "order": 6,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 30,
+   "name": "Bàn Ăn 10 Ghế",
+   "slug": "ban-an-10-ghe",
+   "parent": 24,
+   "description": "",
+   "order": 7,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 31,
+   "name": "Bàn Ăn 12 Ghế",
+   "slug": "ban-an-12-ghe",
+   "parent": 24,
+   "description": "",
+   "order": 8,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 32,
+   "name": "Bàn Ăn Lớn",
+   "slug": "ban-an-lon",
+   "parent": 24,
+   "description": "",
+   "order": 9,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 33,
+   "name": "Bàn Ăn Kéo Dài",
+   "slug": "ban-an-keo-dai",
+   "parent": 24,
+   "description": "",
+   "order": 10,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 34,
+   "name": "Bàn Ăn Mặt Đá",
+   "slug": "ban-an-mat-da",
+   "parent": 24,
+   "description": "",
+   "order": 11,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 35,
+   "name": "Bàn Ăn Nhập Khẩu",
+   "slug": "ban-an-nhap-khau",
+   "parent": 24,
+   "description": "",
+   "order": 12,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 36,
+   "name": "Bàn Ăn Tròn",
+   "slug": "ban-an-tron",
+   "parent": 24,
+   "description": "",
+   "order": 13,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 37,
+   "name": "Bàn Trà Mặt Đá",
+   "slug": "ban-tra-mat-da-ban",
+   "parent": 25,
+   "description": "",
+   "order": 14,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 38,
+   "name": "Bàn Trà Nhập Khẩu",
+   "slug": "tra-nhap-khau",
+   "parent": 25,
+   "description": "",
+   "order": 15,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 39,
+   "name": "Ghế Ăn Bọc Da",
+   "slug": "ghe-an-boc-da",
+   "parent": 26,
+   "description": "",
+   "order": 16,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 40,
+   "name": "Ghế Ăn Minotti",
+   "slug": "ghe-an-minotti",
+   "parent": 26,
+   "description": "",
+   "order": 17,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 41,
+   "name": "Ghế Ăn Visionnaire",
+   "slug": "ghe-an-visionnaire",
+   "parent": 26,
+   "description": "",
+   "order": 18,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 42,
+   "name": "Sofa Chỉnh Điện",
+   "slug": "sofa-chinh-dien",
+   "parent": 27,
+   "description": "",
+   "order": 19,
+   "image": "/uploads/2026/11/04-sofa-chinh-dien.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 43,
+   "name": "Sofa Da",
+   "slug": "sofa-da",
+   "parent": 27,
+   "description": "",
+   "order": 20,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 44,
+   "name": "Sofa Đức",
+   "slug": "sofa-duc",
+   "parent": 27,
+   "description": "",
+   "order": 21,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 45,
+   "name": "Sofa Minotti",
+   "slug": "sofa-minotti",
+   "parent": 27,
+   "description": "",
+   "order": 22,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 46,
+   "name": "Sofa Văng",
+   "slug": "sofa-vang",
+   "parent": 27,
+   "description": "",
+   "order": 23,
+   "image": "",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 47,
+   "name": "Phòng khách",
+   "slug": "phong-khach",
+   "parent": 0,
+   "description": "",
+   "order": 24,
+   "image": "/uploads/2026/11/block-home-category1-img.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 48,
+   "name": "Phòng ăn",
+   "slug": "phong-an",
+   "parent": 0,
+   "description": "",
+   "order": 25,
+   "image": "/uploads/2026/11/block-home-category2-img.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 49,
+   "name": "Phòng ngủ",
+   "slug": "phong-ngu",
+   "parent": 0,
+   "description": "",
+   "order": 26,
+   "image": "/uploads/2026/11/block-home-category3-img.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  },
+  {
+   "id": 50,
+   "name": "Phòng làm việc",
+   "slug": "phong-lam-viec",
+   "parent": 0,
+   "description": "",
+   "order": 27,
+   "image": "/uploads/2026/11/luca-bravo-9l-326fiszk-unsplash-edited.webp",
+   "bannerTitle": "",
+   "bannerText": "",
+   "bannerImage": ""
+  }
+ ],
+ "attributes": [
+  {
+   "taxonomy": "pa_mau-sac",
+   "label": "Màu sắc",
+   "terms": [
+    {
+     "slug": "nau",
+     "name": "Nâu"
+    },
+    {
+     "slug": "trang",
+     "name": "Trắng"
+    },
+    {
+     "slug": "xanh",
+     "name": "Xanh"
+    },
+    {
+     "slug": "do",
+     "name": "Đỏ"
+    }
+   ]
+  },
+  {
+   "taxonomy": "pa_chat-lieu",
+   "label": "Chất liệu",
+   "terms": [
+    {
+     "slug": "go",
+     "name": "Gỗ"
+    },
+    {
+     "slug": "go-cong-nghiep",
+     "name": "Gỗ công nghiệp"
+    },
+    {
+     "slug": "inox",
+     "name": "Inox"
+    },
+    {
+     "slug": "nhua",
+     "name": "Nhựa"
+    }
+   ]
+  }
+ ],
+ "products": [
+  {
+   "wpId": 28,
+   "slug": "ghe-da-armchair-oakway",
+   "name": "Ghế da Armchair Oakway",
+   "status": "publish",
+   "type": "variable",
+   "content": "<p>Đèn trang trí Kibi thường được sử dụng trong khu vực chính như: phòng ngủ, phòng ăn, phòng bếp hoặc phòng khách. Bên cạnh đó, bạn cũng có thể trang trí đèn cho phòng ngủ, tăng thêm tính thẩm mỹ cho không gian căn phòng.</p>\n<p>Việc treo đèn ở hai bên giường, sẽ giúp không gian bạn trở nên tinh tế và hiện đại hơn. Mặt khác, sử dụng đèn trang trí còn là giải pháp giúp cung cấp đủ ánh sáng cho các hoạt động như trang điểm hay đọc sách.</p>\n<p>Xuất xứ: Trung Quốc</p>\n<p>Kích thước: 77cmx180cm</p>\n<p>Cân nặng: 65kg</p>\n<p>Chất liệu: chân đèn chắc chắn từ thép không gỉ sơn tĩnh điện. Chụp đèn bằng thủy tinh cao cấp</p>\n<p>Màu sắc: Đen</p>",
+   "short": "<p>Đèn trang trí Kibi thường được sử dụng trong khu vực chính như: phòng ngủ, phòng ăn, phòng bếp hoặc phòng khách. Bên cạnh đó, bạn cũng có thể trang trí đèn cho phòng ngủ, tăng thêm tính thẩm mỹ cho không gian căn phòng.</p>",
+   "regular": null,
+   "sale": null,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/frame-1000002981.webp",
+   "gallery": [
+    "/uploads/2026/11/3-790174ab-9dcc-43c4-ac2e-91d7ac4f9568.webp",
+    "/uploads/2026/11/2-ab3b11e5-adad-4f81-b178-f7b9b574b7cb.webp",
+    "/uploads/2026/11/1-5a1c9c12-8f2a-4ce3-9a8e-3d2872d3a2d6.webp"
+   ],
+   "cats": [
+    "chua-phan-loai",
+    "ghe-sofa",
+    "phong-khach",
+    "sofa-da"
+   ],
+   "attrs": {
+    "pa_chat-lieu": [
+     "go",
+     "go-cong-nghiep",
+     "inox",
+     "nhua"
+    ]
+   },
+   "variations": [
+    {
+     "attrs": {
+      "pa_chat-lieu": "go"
+     },
+     "regular": 15000000,
+     "sale": 12000000,
+     "image": "/uploads/2026/11/cate-4.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_chat-lieu": "go-cong-nghiep"
+     },
+     "regular": 15000000,
+     "sale": 12000000,
+     "image": "/uploads/2026/11/1-5a1c9c12-8f2a-4ce3-9a8e-3d2872d3a2d6.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_chat-lieu": "inox"
+     },
+     "regular": 15000000,
+     "sale": 12000000,
+     "image": "/uploads/2026/11/anh.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_chat-lieu": "nhua"
+     },
+     "regular": 15000000,
+     "sale": 12000000,
+     "image": "/uploads/2026/11/cate-3.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    }
+   ],
+   "date": "2026-11-17 06:54:57",
+   "menuOrder": 0,
+   "featured": false
+  },
+  {
+   "wpId": 41,
+   "slug": "sofa-don-calmo",
+   "name": "Sofa đơn Calmo",
+   "status": "publish",
+   "type": "variable",
+   "content": "<p>Đèn trang trí Kibi thường được sử dụng trong khu vực chính như: phòng ngủ, phòng ăn, phòng bếp hoặc phòng khách. Bên cạnh đó, bạn cũng có thể trang trí đèn cho phòng ngủ, tăng thêm tính thẩm mỹ cho không gian căn phòng.</p>\n<p>Việc treo đèn ở hai bên giường, sẽ giúp không gian bạn trở nên tinh tế và hiện đại hơn. Mặt khác, sử dụng đèn trang trí còn là giải pháp giúp cung cấp đủ ánh sáng cho các hoạt động như trang điểm hay đọc sách.</p>\n<p>Xuất xứ: Trung Quốc</p>\n<p>Kích thước: 77cmx180cm</p>\n<p>Cân nặng: 65kg</p>\n<p>Chất liệu: chân đèn chắc chắn từ thép không gỉ sơn tĩnh điện. Chụp đèn bằng thủy tinh cao cấp</p>\n<p>Màu sắc: Đen</p>",
+   "short": "<p>Đèn trang trí Kibi thường được sử dụng trong khu vực chính như: phòng ngủ, phòng ăn, phòng bếp hoặc phòng khách. Bên cạnh đó, bạn cũng có thể trang trí đèn cho phòng ngủ, tăng thêm tính thẩm mỹ cho không gian căn phòng.</p>",
+   "regular": null,
+   "sale": null,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/04-02-calmo-tr-ng-kem-n-n-md-78439184e9c-9d0c74.webp",
+   "gallery": [
+    "/uploads/2026/11/04-01-calmo-xanh-bi-n-d-m-n-n-md-6ebb10e-6c5ed8.webp",
+    "/uploads/2026/11/04-04-calmo-d-cam-n-n-md-aa5b2bc4ba8e4a8-812f09.webp",
+    "/uploads/2026/11/04-03-calmo-cam-n-n-md-bfca63005a6a4318a-25e63a.webp",
+    "/uploads/2026/11/04-02-calmo-tr-ng-kem-n-n-md-78439184e9c-fb3400.webp"
+   ],
+   "cats": [
+    "chua-phan-loai",
+    "ghe-sofa",
+    "phong-khach",
+    "sofa-duc"
+   ],
+   "attrs": {
+    "pa_mau-sac": [
+     "do",
+     "nau",
+     "trang",
+     "xanh"
+    ]
+   },
+   "variations": [
+    {
+     "attrs": {
+      "pa_mau-sac": "do"
+     },
+     "regular": 600000,
+     "sale": null,
+     "image": "/uploads/2026/11/04-04-calmo-d-cam-n-n-md-aa5b2bc4ba8e4a8-812f09.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "nau"
+     },
+     "regular": 580000,
+     "sale": null,
+     "image": "/uploads/2026/11/04-03-calmo-cam-n-n-md-bfca63005a6a4318a-25e63a.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "trang"
+     },
+     "regular": 620000,
+     "sale": null,
+     "image": "/uploads/2026/11/04-02-calmo-tr-ng-kem-n-n-md-78439184e9c-fb3400.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "xanh"
+     },
+     "regular": 650000,
+     "sale": null,
+     "image": "/uploads/2026/11/04-01-calmo-xanh-bi-n-d-m-n-n-md-6ebb10e-6c5ed8.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    }
+   ],
+   "date": "2026-11-17 07:54:59",
+   "menuOrder": 0,
+   "featured": false
+  },
+  {
+   "wpId": 46,
+   "slug": "ghe-da-armchair-oakway-go",
+   "name": "Ghế da Armchair Oakway",
+   "status": "publish",
+   "type": "variable",
+   "content": "<p>Đèn trang trí Kibi thường được sử dụng trong khu vực chính như: phòng ngủ, phòng ăn, phòng bếp hoặc phòng khách. Bên cạnh đó, bạn cũng có thể trang trí đèn cho phòng ngủ, tăng thêm tính thẩm mỹ cho không gian căn phòng.</p>\n<p>Việc treo đèn ở hai bên giường, sẽ giúp không gian bạn trở nên tinh tế và hiện đại hơn. Mặt khác, sử dụng đèn trang trí còn là giải pháp giúp cung cấp đủ ánh sáng cho các hoạt động như trang điểm hay đọc sách.</p>\n<p>Xuất xứ: Trung Quốc</p>\n<p>Kích thước: 77cmx180cm</p>\n<p>Cân nặng: 65kg</p>\n<p>Chất liệu: chân đèn chắc chắn từ thép không gỉ sơn tĩnh điện. Chụp đèn bằng thủy tinh cao cấp</p>\n<p>Màu sắc: Đen</p>",
+   "short": "<p>Đèn trang trí Kibi thường được sử dụng trong khu vực chính như: phòng ngủ, phòng ăn, phòng bếp hoặc phòng khách. Bên cạnh đó, bạn cũng có thể trang trí đèn cho phòng ngủ, tăng thêm tính thẩm mỹ cho không gian căn phòng.</p>",
+   "regular": null,
+   "sale": null,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/frame-1000002981.webp",
+   "gallery": [],
+   "cats": [
+    "chua-phan-loai",
+    "ghe-sofa",
+    "phong-khach",
+    "sofa-da"
+   ],
+   "attrs": {
+    "pa_chat-lieu": [
+     "go",
+     "go-cong-nghiep"
+    ]
+   },
+   "variations": [
+    {
+     "attrs": {
+      "pa_chat-lieu": "go"
+     },
+     "regular": 21,
+     "sale": null,
+     "image": "/uploads/2026/11/frame-1000002981.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_chat-lieu": "go-cong-nghiep"
+     },
+     "regular": 1221,
+     "sale": null,
+     "image": "/uploads/2026/11/frame-1000002981.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    }
+   ],
+   "date": "2026-11-17 08:55:00",
+   "menuOrder": 0,
+   "featured": false
+  },
+  {
+   "wpId": 53,
+   "slug": "ban-an-calmo",
+   "name": "Bàn ăn Calmo",
+   "status": "publish",
+   "type": "simple",
+   "content": "<p>Ghế thư giãn Calmo – vòng tay ôm trọn những niềm vui giản dị. Thiết kế bo tròn mềm mại, gam màu trung tính thanh lịch cùng lớp mousse đàn hồi giúp mỗi lần ngồi đều như được vỗ về, xoa dịu mọi cảm xúc. Tay vịn và chân khung gỗ dày dặn tạo sự vững chắc xuyên suốt mọi phút giây quây quần đáng nhớ.</p>\n<p>Calmo dễ phối với đủ phong cách nội thất, phong phú từ tối giản đến cá tính. Chọn Calmo nghĩa là chọn nơi khơi nguồn cảm hứng sống, để mỗi giây phút nghỉ ngơi bên gia đình luôn ý nghĩa và đầy nguồn năng lượng tích cực.</p>",
+   "short": "<p>Bàn ăn Bali với mặt đá tự nhiên Ý màu trắng vân ngọc óng ánh, ghế Allora bọc da thật công nghệ cao tựa lưng plywood 10 lớp uốn cong, armchair Fynn gỗ ash màu Liquorice với tay vịn thủ công — và sofa da nhập khẩu may đo theo phòng khách — tạo thành một dự án phủ cả hai không gian trong cùng ngôn ngữ thiết kế. Điểm đặc trưng của bộ phòng ăn này là bộ màu trắng–đen có chiều sâu vật liệu: mặt đá trắng tự nhiên bắt sáng khác nhau theo giờ trong ngày, ghế da Allora trắng giữ tỷ lệ nhỏ gọn và hợp kim mạ Galvano sáng, armchair Fynn đưa gỗ ash đen tự nhiên vào như điểm ấm duy nhất trong bộ màu lạnh</p>",
+   "regular": 3500000,
+   "sale": 3000000,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/calmo-den-mb-1610-01-d9845f943945406fbd5-d726c4.webp",
+   "gallery": [
+    "/uploads/2026/11/calmo-tr-ng-mb-1610-01-927b7dbb1be547b3b-22dda0.webp",
+    "/uploads/2026/11/calmo-be-mb-1610-01-92327e8d99614616b4ce-592692.webp",
+    "/uploads/2026/11/calmo-den-mb-1610-01-d9845f943945406fbd5-2c5a2b.webp"
+   ],
+   "cats": [
+    "ban-an",
+    "ban-an-6-ghe",
+    "ban-an-tron",
+    "ban-tra",
+    "ghe-an",
+    "ghe-sofa",
+    "phong-an"
+   ],
+   "attrs": {
+    "pa_mau-sac": [
+     "do",
+     "nau",
+     "trang",
+     "xanh"
+    ]
+   },
+   "variations": [],
+   "date": "2026-11-17 09:55:01",
+   "menuOrder": 0,
+   "featured": false
+  },
+  {
+   "wpId": 59,
+   "slug": "ghe-an-obi-slim",
+   "name": "Ghế ăn Obi Slim",
+   "status": "publish",
+   "type": "variable",
+   "content": "<p>Ghế ăn Obi Slim chinh phục ánh nhìn ngay từ khoảnh khắc đầu tiên bởi thiết kế tối giản nhưng vẫn toát lên nét sang trọng và đầy cá tính. Không quá cầu kỳ trong từng đường nét, Obi Slim tập trung vào sự tinh gọn và hài hòa để tạo nên một tổng thể hiện đại, phù hợp với nhiều phong cách nội thất khác nhau. Điểm nhấn nổi bật của mẫu ghế này nằm ở phần tựa lưng bo cong mềm mại, ôm nhẹ cơ thể người ngồi, vừa mang tính thẩm mỹ vừa tạo cảm giác thoải mái trong suốt quá trình sử dụng. Chính sự tinh tế ấy đã giúp Obi Slim trở thành lựa chọn được nhiều gia đình trẻ yêu thích trong không gian sống hiện đại ngày nay.</p>\n<p><img src=\"https://webnoithat.giaodien.asia/wp-content/uploads/2026/05/obi-slim-den-mat-ben-0503-01_5d7cf0f78c3c482489c544b08301bd37_master-1024x1024.png\" alt=\"\" loading=\"lazy\"></p>\n<p>Khung ghế được chế tác từ sắt sơn tĩnh điện cao cấp với thiết kế thanh mảnh nhưng vô cùng chắc chắn. Phần chân ghế gọn gàng giúp tổng thể trở nên nhẹ nhàng, thanh thoát hơn, đồng thời tạo cảm giác không gian rộng rãi và thoáng đãng. Lớp sơn tĩnh điện không chỉ mang đến vẻ ngoài hiện đại mà còn giúp ghế chống oxy hóa, hạn chế trầy xước và tăng độ bền theo thời gian. Nhờ đó, Obi Slim có thể dễ dàng đồng hành cùng gia đình trong nhiều năm mà vẫn giữ được vẻ đẹp như mới.</p>\n<p>Phần nệm ghế sử dụng mousse đàn hồi cao, mang đến cảm giác êm ái và dễ chịu khi ngồi. Dù là những bữa cơm gia đình ấm cúng hay những buổi trò chuyện kéo dài cùng bạn bè, Obi Slim vẫn đem lại sự thư giãn tối đa cho người sử dụng. Thiết kế công thái học giúp nâng đỡ lưng hiệu quả, hạn chế cảm giác mỏi khi ngồi lâu. Đây cũng chính là yếu tố giúp Obi Slim không chỉ là một chiếc ghế ăn thông thường mà còn trở thành món nội thất góp phần nâng tầm trải nghiệm sống hằng ngày.</p>\n<p>Obi Slim sở hữu phong cách hiện đại nên rất dễ phối hợp với nhiều kiểu bàn ăn khác nhau như bàn mặt đá, bàn gỗ tự nhiên hay bàn chân sắt tối giản. Dù được đặt trong căn hộ chung cư trẻ trung, nhà phố hiện đại hay không gian nội thất mang hơi hướng Bắc Âu, mẫu ghế này vẫn tạo nên sự hài hòa và nổi bật riêng. Với gam màu trung tính thanh lịch, Obi Slim giúp không gian ăn uống trở nên sang trọng hơn nhưng vẫn giữ được cảm giác gần gũi và ấm áp.</p>\n<p>Không chỉ phù hợp cho khu vực bàn ăn gia đình, Obi Slim còn được ứng dụng rộng rãi trong các quán café, nhà hàng hay showroom nội thất nhờ vẻ đẹp thời thượng và khả năng thích nghi linh hoạt với không gian. Thiết kế gọn nhẹ giúp việc di chuyển và sắp xếp trở nên dễ dàng hơn, đặc biệt phù hợp với những không gian cần tối ưu diện tích nhưng vẫn muốn giữ được tính thẩm mỹ cao.</p>\n<p>Một chiếc ghế đẹp không đơn thuần chỉ để ngồi mà còn góp phần tạo nên cảm xúc cho không gian sống. Obi Slim mang đến cảm giác trẻ trung, hiện đại nhưng không lạnh lẽo, ngược lại còn tạo nên sự tinh tế và đầy cảm hứng cho khu vực bàn ăn. Từng chi tiết nhỏ đều được chăm chút cẩn thận để tạo nên một sản phẩm vừa đẹp mắt vừa thực dụng, đáp ứng nhu cầu thẩm mỹ và tiện nghi của cuộc sống hiện đại.</p>\n<p>Nếu bạn đang tìm kiếm một mẫu ghế ăn vừa tối giản, sang trọng lại đảm bảo sự thoải mái khi sử dụng, Obi Slim chắc chắn sẽ là lựa chọn đáng cân nhắc. Với thiết kế thanh lịch, chất liệu bền bỉ cùng khả năng ứng dụng linh hoạt, Obi Slim không chỉ làm đẹp cho không gian mà còn góp phần mang đến những khoảnh khắc sum vầy trọn vẹn hơn bên gia đình và những người thân yêu.</p>",
+   "short": "<p>CHẤT LIỆU &amp; KẾT CẤU</p>\n<p>Bọc: tùy chỉnh</p>\n<p>Đệm: Nệm mousse</p>\n<p>Chân: sắt sơn tĩnh điện</p>\n<p>Chỗ ngồi: 1</p>",
+   "regular": null,
+   "sale": null,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/obi-slim-trang-chan-den-mat-ben-0503-01-09a165.webp",
+   "gallery": [
+    "/uploads/2026/11/obi-slim-trang-chan-den-mat-ben-0503-01-6a1cd6.webp",
+    "/uploads/2026/11/obi-slim-den-mat-ben-0503-01-5d7cf0f78c3-857084.webp",
+    "/uploads/2026/11/obi-slim-be-mat-ben-0503-01-056bd0f88db4-7b9699.webp",
+    "/uploads/2026/11/obi-slim-nau-mat-ben-0503-01-aa48b61bdec-904e43.webp"
+   ],
+   "cats": [
+    "chua-phan-loai",
+    "ghe-an",
+    "phong-an"
+   ],
+   "attrs": {
+    "pa_mau-sac": [
+     "nau",
+     "trang",
+     "xanh"
+    ]
+   },
+   "variations": [
+    {
+     "attrs": {
+      "pa_mau-sac": "nau"
+     },
+     "regular": 750000,
+     "sale": null,
+     "image": "/uploads/2026/11/obi-slim-nau-mat-ben-0503-01-aa48b61bdec-904e43.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "trang"
+     },
+     "regular": 750000,
+     "sale": null,
+     "image": "/uploads/2026/11/obi-slim-trang-chan-den-mat-ben-0503-01-6a1cd6.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "xanh"
+     },
+     "regular": 600000,
+     "sale": null,
+     "image": "/uploads/2026/11/obi-slim-den-mat-ben-0503-01-5d7cf0f78c3-857084.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    }
+   ],
+   "date": "2026-11-17 10:55:03",
+   "menuOrder": 0,
+   "featured": false
+  },
+  {
+   "wpId": 66,
+   "slug": "ghe-an-bull",
+   "name": "Ghế ăn Bull",
+   "status": "publish",
+   "type": "variable",
+   "content": "<p>Ghế ăn Bull gây ấn tượng mạnh bởi thiết kế hiện đại pha chút cá tính, mang đến cảm giác vững chãi nhưng vẫn giữ được nét thanh lịch cho không gian sống. Ngay từ ánh nhìn đầu tiên, mẫu ghế này đã tạo nên sức hút riêng nhờ những đường nét mạnh mẽ, phần tựa lưng bo cong tinh tế cùng tổng thể cân đối, hài hòa. Không quá cầu kỳ trong chi tiết, Bull tập trung vào sự tối giản hiện đại để tôn lên vẻ đẹp sang trọng và dễ dàng kết hợp với nhiều phong cách nội thất khác nhau.</p>\n<p><img src=\"https://webnoithat.giaodien.asia/wp-content/uploads/2026/05/z7222116379866_14e69b9f243aba31be27156b860c64e9_143032135ae5413b9598fb9c9952afd5_master.png\" alt=\"\" loading=\"lazy\"></p>\n<p>Điểm nổi bật của ghế ăn Bull nằm ở phần khung được thiết kế chắc chắn, tạo cảm giác ổn định và an toàn khi sử dụng. Chân ghế thanh thoát nhưng vẫn đảm bảo độ cứng cáp cần thiết, giúp tổng thể trở nên gọn gàng và tinh tế hơn. Chất liệu sắt sơn tĩnh điện cao cấp không chỉ giúp ghế bền bỉ theo thời gian mà còn tăng tính thẩm mỹ với bề mặt hoàn thiện đẹp mắt, hạn chế trầy xước và chống oxy hóa hiệu quả. Nhờ đó, Bull luôn giữ được vẻ ngoài sang trọng dù sử dụng trong thời gian dài.</p>\n<p>Phần tựa lưng của ghế được thiết kế ôm nhẹ cơ thể, hỗ trợ tư thế ngồi thoải mái và thư giãn hơn trong suốt quá trình sử dụng. Đệm ngồi sử dụng mousse đàn hồi cao, mang lại cảm giác êm ái và dễ chịu ngay cả khi ngồi lâu. Đây là yếu tố giúp Bull không chỉ đơn thuần là một chiếc ghế ăn mà còn góp phần nâng cao trải nghiệm sống, tạo nên những bữa ăn gia đình thoải mái và trọn vẹn hơn.</p>\n<p>Ghế ăn Bull sở hữu phong cách hiện đại nên rất dễ phối hợp với nhiều loại bàn ăn như bàn gỗ tự nhiên, bàn mặt đá hay bàn chân sắt tối giản. Dù xuất hiện trong căn hộ chung cư trẻ trung, nhà phố hiện đại hay không gian nội thất sang trọng, mẫu ghế này vẫn tạo nên điểm nhấn nổi bật đầy cuốn hút. Gam màu trung tính cùng thiết kế tinh giản giúp Bull dễ dàng hòa hợp với tổng thể nội thất mà không làm mất đi cá tính riêng.</p>\n<p>Không chỉ phù hợp cho không gian gia đình, ghế ăn Bull còn là lựa chọn lý tưởng cho các quán café, nhà hàng hay showroom nhờ vẻ ngoài hiện đại và tính ứng dụng cao. Thiết kế gọn gàng giúp tối ưu diện tích hiệu quả, đồng thời tạo cảm giác chuyên nghiệp và đẳng cấp cho không gian sử dụng. Đây cũng là lý do mẫu ghế này ngày càng được yêu thích trong các công trình nội thất hiện đại.</p>\n<p>Một chiếc ghế đẹp không chỉ mang giá trị sử dụng mà còn góp phần tạo nên cảm xúc cho không gian sống. Bull mang đến sự cân bằng giữa thẩm mỹ và công năng, giữa vẻ đẹp hiện đại và cảm giác thoải mái trong từng trải nghiệm. Từng đường nét đều được chăm chút kỹ lưỡng để tạo nên một sản phẩm vừa đẹp mắt vừa thực dụng, phù hợp với nhu cầu của cuộc sống hiện đại ngày nay.</p>\n<p>Nếu bạn đang tìm kiếm một mẫu ghế ăn có thiết kế mạnh mẽ, hiện đại nhưng vẫn đảm bảo sự êm ái và tinh tế, ghế ăn Bull chắc chắn là lựa chọn đáng cân nhắc. Với kiểu dáng sang trọng, chất liệu bền bỉ cùng khả năng ứng dụng linh hoạt, Bull không chỉ giúp hoàn thiện không gian nội thất mà còn mang đến những khoảnh khắc sum vầy ấm cúng và đầy cảm hứng cho gia đình bạn.</p>",
+   "short": "<p>CHẤT LIỆU &amp; KẾT CẤU</p>\n<p>Bọc: Tùy chỉnh</p>\n<p>Đệm: Nệm mousse</p>\n<p>Chân: Gỗ ASH</p>\n<p>Chỗ ngồi: 1</p>",
+   "regular": null,
+   "sale": null,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/z7222116379866-14e69b9f243aba31be27156b8-786bd3.webp",
+   "gallery": [
+    "/uploads/2026/11/z7222116379866-14e69b9f243aba31be27156b8-87d1d5.webp",
+    "/uploads/2026/11/ghe-an-bull-mau-go-tu-nhien-2801-01-22f8-0364b4.webp"
+   ],
+   "cats": [
+    "chua-phan-loai",
+    "ghe-an",
+    "ghe-an-boc-da",
+    "phong-an"
+   ],
+   "attrs": {
+    "pa_mau-sac": [
+     "nau",
+     "xanh"
+    ]
+   },
+   "variations": [
+    {
+     "attrs": {
+      "pa_mau-sac": "nau"
+     },
+     "regular": 800000,
+     "sale": null,
+     "image": "/uploads/2026/11/z7222116379866-14e69b9f243aba31be27156b8-87d1d5.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "xanh"
+     },
+     "regular": 600000,
+     "sale": null,
+     "image": "/uploads/2026/11/ghe-an-bull-mau-go-tu-nhien-2801-01-22f8-0364b4.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    }
+   ],
+   "date": "2026-11-17 11:55:04",
+   "menuOrder": 0,
+   "featured": false
+  },
+  {
+   "wpId": 70,
+   "slug": "giuong-boc-vai-nomal",
+   "name": "Giường bọc vải – Nomal",
+   "status": "publish",
+   "type": "variable",
+   "content": "<p>Giường bọc vải Nomal là sự kết hợp hài hòa giữa vẻ đẹp hiện đại và cảm giác thư giãn đầy tinh tế, mang đến cho không gian phòng ngủ một diện mạo sang trọng nhưng vẫn gần gũi và ấm áp. Ngay từ ánh nhìn đầu tiên, mẫu giường này gây ấn tượng với phần đầu giường được thiết kế bo cong mềm mại, tạo nên đường nét uyển chuyển đầy nghệ thuật. Thiết kế này không chỉ giúp tổng thể trở nên thanh thoát hơn mà còn mang lại cảm giác nhẹ nhàng, dễ chịu, góp phần tạo nên không gian nghỉ ngơi thư thái sau một ngày dài.</p>\n<p><img src=\"https://webnoithat.giaodien.asia/wp-content/uploads/2026/05/nomal_d__d_t_mb_1310-01_793f2dfb923840cab505cdb8b0e8408c_master-1024x1024.png\" alt=\"\" loading=\"lazy\"></p>\n<p>Điểm nổi bật của giường Nomal nằm ở phong cách tối giản hiện đại nhưng vẫn đủ tinh tế để tạo nên dấu ấn riêng trong không gian nội thất. Các chi tiết được tiết chế vừa đủ để tôn lên vẻ đẹp sang trọng mà không gây cảm giác nặng nề. Phần đầu giường cong nhẹ kết hợp cùng form dáng cân đối giúp sản phẩm phù hợp với nhiều phong cách thiết kế khác nhau, từ hiện đại, tối giản cho đến Japandi hay Scandinavian.</p>\n<p>Giường được bọc vải cao cấp với khả năng tùy chỉnh màu sắc và chất liệu theo sở thích, giúp tăng tính cá nhân hóa cho không gian sống. Chất liệu vải không chỉ mang lại cảm giác mềm mại, êm ái khi sử dụng mà còn tạo hiệu ứng thị giác ấm cúng và sang trọng hơn cho phòng ngủ. Bề mặt vải được hoàn thiện tỉ mỉ, dễ dàng vệ sinh và có độ bền cao, phù hợp với nhu cầu sử dụng lâu dài của gia đình hiện đại.</p>\n<p>Khung giường sử dụng gỗ dầu chắc chắn, đảm bảo độ ổn định và khả năng chịu lực tốt trong quá trình sử dụng. Kết cấu khung được gia công cẩn thận nhằm mang lại sự bền bỉ theo thời gian, hạn chế cong vênh và giữ cho giường luôn vững chãi. Đây là yếu tố quan trọng giúp Nomal không chỉ đẹp về mặt thẩm mỹ mà còn đảm bảo chất lượng và trải nghiệm sử dụng thực tế.</p>\n<p>Với kích thước tổng thể D2170 x R2090 x C1170mm cùng size nệm D2000 x R1600mm, giường Nomal mang đến không gian nghỉ ngơi rộng rãi và thoải mái cho từ 2 đến 3 người sử dụng. Tỷ lệ thiết kế hài hòa giúp chiếc giường trở thành điểm nhấn nổi bật nhưng không làm căn phòng trở nên nặng nề hay bí bách. Nhờ kiểu dáng thanh thoát cùng gam màu nhẹ nhàng, sản phẩm dễ dàng kết hợp với nhiều chất liệu nội thất khác như gỗ, kim loại hay đá để tạo nên tổng thể hài hòa và hiện đại.</p>\n<p>Không chỉ là nơi nghỉ ngơi, giường Nomal còn góp phần nâng tầm cảm xúc cho không gian sống. Sự mềm mại trong từng đường cong cùng cảm giác êm ái từ lớp vải bọc tạo nên một không gian phòng ngủ đầy thư giãn và dễ chịu. Đây là nơi để tái tạo năng lượng, tận hưởng những khoảnh khắc bình yên và mang lại cảm giác thoải mái tuyệt đối cho mỗi thành viên trong gia đình.</p>\n<p>Nếu bạn đang tìm kiếm một mẫu giường vừa hiện đại, tinh tế lại đảm bảo sự êm ái và bền bỉ theo thời gian, giường bọc vải Nomal chắc chắn là lựa chọn đáng cân nhắc. Với thiết kế thanh lịch, chất liệu cao cấp cùng khả năng tùy chỉnh linh hoạt, Nomal không chỉ hoàn thiện vẻ đẹp cho phòng ngủ mà còn mang đến trải nghiệm nghỉ ngơi trọn vẹn và đầy cảm hứng mỗi ngày.</p>",
+   "short": "<p>Kích thước: D2170 R2090 C1170mm</p>\n<p>Size nệm: D2000 R1600mm</p>\n<p>Chỗ nằm: 2 &#8211; 3</p>\n<p>CHẤT LIỆU &amp; KẾT CẤU</p>\n<p>Khung: Gỗ dầu</p>\n<p>Chất liệu bọc: Tùy chỉnh</p>",
+   "regular": null,
+   "sale": null,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/nomal-d-d-t-mb-1310-01-793f2dfb923840cab-fc9a1f.webp",
+   "gallery": [],
+   "cats": [
+    "chua-phan-loai",
+    "phong-ngu"
+   ],
+   "attrs": {
+    "pa_mau-sac": [
+     "do",
+     "nau",
+     "trang",
+     "xanh"
+    ]
+   },
+   "variations": [
+    {
+     "attrs": {
+      "pa_mau-sac": "do"
+     },
+     "regular": 3500000,
+     "sale": null,
+     "image": "/uploads/2026/11/nomal-d-d-t-mb-1310-01-793f2dfb923840cab-fc9a1f.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "nau"
+     },
+     "regular": 3500000,
+     "sale": null,
+     "image": "/uploads/2026/11/nomal-n-u-mb2-1310-01-dfe4b505a3984409b7-50b452.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "trang"
+     },
+     "regular": 3500000,
+     "sale": null,
+     "image": "/uploads/2026/11/nomal-tr-ng-kem-mb2-1310-01-9608a438ecdf-60a8dd.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    },
+    {
+     "attrs": {
+      "pa_mau-sac": "xanh"
+     },
+     "regular": 3500000,
+     "sale": null,
+     "image": "/uploads/2026/11/nomal-xanh-l-mb2-1310-01-1c473efdb80741d-5948c1.webp",
+     "sku": "",
+     "stock": "instock",
+     "description": ""
+    }
+   ],
+   "date": "2026-11-17 12:55:05",
+   "menuOrder": 0,
+   "featured": false
+  },
+  {
+   "wpId": 82,
+   "slug": "sofa-bang-calmo",
+   "name": "Sofa băng Calmo",
+   "status": "publish",
+   "type": "simple",
+   "content": "<p>Sofa băng Calmo là sự hòa quyện hoàn hảo giữa vẻ đẹp hiện đại và cảm giác thư giãn đầy tinh tế, mang đến cho không gian sống một điểm nhấn sang trọng nhưng vẫn gần gũi và ấm áp. Ngay từ ánh nhìn đầu tiên, Calmo gây ấn tượng với thiết kế bo tròn mềm mại lấy cảm hứng từ những đường cong tự nhiên như mây trời, tạo cảm giác nhẹ nhàng và thư thái cho tổng thể không gian. Các khối đệm được liên kết hài hòa giúp sản phẩm vừa mang vẻ ngoài chắc chắn vừa giữ được sự thanh thoát đầy nghệ thuật.</p>\n<p>Điểm nổi bật của sofa Calmo nằm ở thiết kế hiện đại nhưng không quá cứng nhắc. Những đường cong mềm mại ở phần tay vịn và tựa lưng được chăm chút tỉ mỉ nhằm mang lại cảm giác dễ chịu và thoải mái trong suốt quá trình sử dụng. Thiết kế công thái học giúp nâng đỡ vai, lưng và cột sống hiệu quả, tạo nên trải nghiệm ngồi thư giãn vượt trội cho cả gia đình. Dù là những phút nghỉ ngơi sau ngày dài làm việc hay những buổi trò chuyện cùng bạn bè, Calmo vẫn mang đến cảm giác êm ái và dễ chịu đầy khác biệt.</p>\n<p>Sofa sử dụng lớp đệm mousse D40 cao cấp kết hợp cùng hệ lò xo túi độc lập, mang lại độ đàn hồi lý tưởng và khả năng nâng đỡ cơ thể tối ưu. Nhờ sự kết hợp này, bề mặt ngồi luôn giữ được độ êm ái nhưng không bị lún sâu, giúp tăng sự thoải mái khi sử dụng lâu dài. Chất liệu vải bọc có thể tùy chỉnh theo nhu cầu, từ màu sắc đến chất liệu hoàn thiện, giúp người dùng dễ dàng cá nhân hóa không gian sống theo phong cách riêng. Bề mặt vải mềm mại tạo cảm giác dễ chịu khi chạm vào, đồng thời góp phần tăng vẻ sang trọng và hiện đại cho sản phẩm.</p>\n<p>Khung sofa được làm từ gỗ dầu chắc chắn, đảm bảo độ bền và khả năng chịu lực ổn định theo thời gian. Kết cấu khung được gia công cẩn thận nhằm mang lại sự vững chãi và an tâm trong quá trình sử dụng. Đây là yếu tố quan trọng giúp Calmo không chỉ đẹp về mặt thẩm mỹ mà còn đáp ứng tốt nhu cầu sử dụng thực tế của gia đình hiện đại.</p>\n<p>Với kích thước D2200 x R1000 x C780mm cùng chiều cao mặt ngồi C400mm, sofa Calmo mang lại không gian ngồi rộng rãi và thoải mái cho từ 2 đến 3 người sử dụng. Tỷ lệ thiết kế cân đối giúp sản phẩm dễ dàng bố trí trong nhiều kiểu không gian khác nhau, từ căn hộ chung cư hiện đại, nhà phố cho đến studio hay khu vực tiếp khách sang trọng. Gam màu nhẹ nhàng kết hợp cùng form dáng bo cong mềm mại giúp Calmo dễ dàng hòa hợp với nhiều phong cách nội thất như Modern, Japandi hay Scandinavian.</p>\n<p>Không chỉ đơn thuần là một món đồ nội thất, sofa băng Calmo còn mang giá trị thẩm mỹ như một điểm nhấn nghệ thuật cho không gian sống. Những đường nét uyển chuyển cùng cảm giác êm ái mà sản phẩm mang lại giúp phòng khách trở nên tinh tế, hiện đại và giàu cảm xúc hơn. Đây không chỉ là nơi để ngồi mà còn là nơi để thư giãn, tận hưởng những khoảnh khắc bình yên bên gia đình và người thân.</p>\n<p>Nếu bạn đang tìm kiếm một mẫu sofa vừa hiện đại, mềm mại lại đảm bảo sự thoải mái tối đa khi sử dụng, sofa băng Calmo chắc chắn sẽ là lựa chọn lý tưởng. Với thiết kế tinh tế, chất liệu cao cấp cùng khả năng ứng dụng linh hoạt, Calmo không chỉ hoàn thiện vẻ đẹp cho không gian sống mà còn mang đến trải nghiệm thư giãn trọn vẹn và đầy cảm hứng mỗi ngày.</p>",
+   "short": "<p>Kích thước: D2200 R1000 C780mm</p>\n<p>Chiều cao mặt ngồi: C400mm</p>\n<p>Chỗ ngồi: 2- 3</p>\n<p>CHẤT LIỆU &amp; KẾT CẤU</p>\n<p>Khung: Gỗ dầu</p>\n<p>Chất liệu bọc: Tuỳ chỉnh</p>\n<p>Đệm: Nệm mousse D40, lò xo túi</p>",
+   "regular": 5000000,
+   "sale": 4500000,
+   "sku": "",
+   "stock": "instock",
+   "image": "/uploads/2026/11/calmo-tr-ng-md-01-66cbfa1ab5ac4473a47950-25971d.webp",
+   "gallery": [
+    "/uploads/2026/11/cropped-calmo-d-md-01-71c88ea8baf243659a-33e591.webp",
+    "/uploads/2026/11/calmo-d-md-01-71c88ea8baf243659a89324d93-045cbd.webp",
+    "/uploads/2026/11/calmo-xanh-md-01-4fb9036f5bb24fb2b03e1be-57bb84.webp"
+   ],
+   "cats": [
+    "ban-an",
+    "ban-an-6-ghe",
+    "ban-tra",
+    "ghe-an",
+    "ghe-sofa",
+    "phong-khach",
+    "sofa-vang"
+   ],
+   "attrs": {
+    "pa_mau-sac": [
+     "nau",
+     "trang",
+     "xanh"
+    ]
+   },
+   "variations": [],
+   "date": "2026-11-17 13:55:07",
+   "menuOrder": 0,
+   "featured": false
+  }
+ ],
+ "postCats": [
+  {
+   "id": 1,
+   "name": "Uncategorized",
+   "slug": "uncategorized",
+   "description": ""
+  },
+  {
+   "id": 51,
+   "name": "Kiến thức nội thất",
+   "slug": "kien-thuc-noi-that",
+   "description": ""
+  },
+  {
+   "id": 52,
+   "name": "Kiến thức Sofa",
+   "slug": "kien-thuc-sofa",
+   "description": ""
+  },
+  {
+   "id": 53,
+   "name": "Kiến thức về Da",
+   "slug": "kien-thuc-ve-da",
+   "description": ""
+  }
+ ],
+ "posts": [
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-10",
+   "title": "Lưu ý trước khi decor phòng ngủ ,Decor phòng ngủ không chỉ cần khoa học",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/2-5c157a08-38ad-4fbf-905f-38d765510507.webp",
+   "date": "2025-04-23 02:20:37",
+   "cats": [
+    "kien-thuc-noi-that",
+    "kien-thuc-sofa"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-9",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-23 02:20:36",
+   "cats": [
+    "kien-thuc-noi-that",
+    "kien-thuc-sofa"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-8",
+   "title": "Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất?",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/block-home-category3-img.webp",
+   "date": "2025-04-23 02:20:35",
+   "cats": [
+    "kien-thuc-noi-that",
+    "kien-thuc-sofa"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-6",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-23 02:20:34",
+   "cats": [
+    "kien-thuc-noi-that",
+    "kien-thuc-sofa"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-7",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-23 02:20:34",
+   "cats": [
+    "kien-thuc-noi-that",
+    "kien-thuc-sofa"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-5",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-23 02:20:33",
+   "cats": [
+    "kien-thuc-noi-that"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-4",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-23 02:20:32",
+   "cats": [
+    "kien-thuc-noi-that"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-3",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-23 02:20:31",
+   "cats": [
+    "kien-thuc-noi-that"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023-2",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-23 02:20:30",
+   "cats": [
+    "kien-thuc-noi-that"
+   ]
+  },
+  {
+   "slug": "huong-dan-tu-decor-phong-ngu-dep-va-chuan-phong-thuy-2023",
+   "title": "Hướng dẫn tự decor phòng ngủ đẹp và chuẩn phong thủy 2023",
+   "content": "<p><em><strong>Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé.</strong></em></p>\n<h2><strong>1. Lưu ý trước khi decor phòng ngủ</strong></h2>\n<p><strong>Decor phòng ngủ</strong> không chỉ cần khoa học, thẩm mỹ mà cần thuận phong thủy. Đối với người Việt, yếu tố phong thủy được đánh giá quan trọng. Nếu phong thủy tốt sẽ giúp giảm thiểu được tai hoạ khi vào vận xấu, giúp gia tăng sự thành công và may mắn khi vào vận tốt. Có 3 vị trí phong thủy quan trọng không được bỏ qua trong nhà đó là cửa chính, phòng ngủ và bếp.</p>\n<p>Theo đánh giá của các nhà khoa học, việc có một giấc ngủ ngon cũng quan trọng không kém gì việc ăn uống lành mạnh và tập thể dục.</p>\n<p><strong>Decor phòng ngủ chuẩn phong thủy </strong>sẽ mang đến những giấc ngủ ngon, tinh thần phấn chấn. Ngược lại, phong thủy phòng ngủ bố trí sai cách sẽ mang lại nhiều phiền toái. Những nguyên tắc trong phòng ngủ hợp với phong thủy cần chú ý như hướng phòng, các cách đặt giường ngủ…</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/1-626afc62-4d0e-4630-b863-7ba9266eb8d1.jpg?v=1701362166430\" alt=\"\" loading=\"lazy\"></p>\n<h2><strong>2. Lưu ý decor phòng ngủ đẹp và chuẩn phong thủy</strong></h2>\n<h3><strong>2.1. Bố trí giường khi decor phòng ngủ </strong></h3>\n<p>Giường ngủ cần có chân cao hơn mặt sàn từ 10cm. Dưới gầm giường phải tạo khoảng trống. Giường phải có kích thước cân đối với căn phòng, giúp hấp thu nguồn khí tốt khi ngủ.</p>\n<p>Không nên đặt giường ngủ ở vị trí quá thoáng như trước cửa ra vào. Decor phòng ngủ chuẩn phong thủy là bạn nên đặt giường ở giữa căn phòng, để trống ở hai bên cạnh giường, đầu giường kê vào tường.</p>\n<p><em><strong>Lưu ý: </strong></em>Khi đặt giường nên tránh vị trí ngay dưới cửa sổ hoặc đầu giường không nằm sát với tường vì sẽ gây những luồng khí không tốt, ảnh hưởng đến khí lực của gia chủ.</p>\n<p>Giường ngủ không được sát hoặc đối diện cửa chính. Không đặt giường đối diện cửa ra vào. Vị trí tốt nhất đặt giường là chéo so với cửa ra vào và tạo khoảng cách càng rộng thì giấc ngủ càng sâu. Vị trí đầu giường ngủ tốt nhất cần có một chỗ tựa vững chắc, kê đầu giường sát vào một bức tường trong phòng. Bức tường này không nên cửa ra vào hoặc cửa sổ là lý tưởng nhất.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/2-5c157a08-38ad-4fbf-905f-38d765510507.jpg?v=1701362180048\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>2.2 Phối màu khi decor phòng ngủ</strong></h3>\n<p>Khi decor phòng ngủ, màu sắc cần đảm bảo các tiêu chí như đúng sở thích, hợp phong thủy, hài hòa. Mỗi mệnh sẽ ứng với các màu sắc khác nhau, mỗi mệnh sẽ có những màu tương sinh, tương khắc khác nhau.</p>\n<p>Gam màu nên dùng khi decor phòng ngủ nên là gam màu pastel và gam màu nóng. Màu pastel là lựa chọn hợp lý nhất cho khoảng thời gian nghỉ ngơi sau nhiều giờ stress. Các gam màu nóng mang lại cho bạn năng lượng.</p>\n<h3><strong>2.3 Nguyên tắc sắp xếp nội thất khi decor phòng ngủ </strong></h3>\n<p>Nội thất trong phòng ngủ cần được sắp xếp gọn gàng, đơn giản. Không nên để quá nhiều đồ ở gần đầu giường vì sẽ cản trở năng lượng tốt. Những vị trí gần giường sẽ là nơi tụ khí cho căn phòng ngủ.</p>\n<p>Nếu bạn để nhiều đồ khi decor phòng ngủ sẽ gây cản trở sự lưu thông khí và ảnh hưởng đến sức khỏe của gia chủ. Nếu phòng ngủ lộn xộn, hãy thường xuyên dọn dẹp, sắp xếp phòng ngủ. Nên cất mọi thứ lên kệ sẽ khiến căn phòng của bạn trở nên rộng rãi hơn.</p>\n<h3><strong>2.4 Decor phòng ngủ với gương soi đúng vị trí</strong></h3>\n<p>Việc đặt gương trong phòng ngủ cũng cần được lưu ý vì nếu không hợp lý sẽ ảnh hưởng lớn đến sức khỏe, tài lộc của gia đình.</p>\n<p>Theo phong thủy, không nên đặt gương đối diện giường ngủ khi ​​decor phòng ngủ vì sẽ làm cho mối quan hệ trong gia đình bị xung đột, bất hòa. Nếu bạn vẫn muốn sử dụng gương, bạn nên chọn những loại gương có cửa để che lại khi ngủ.</p>\n<p>Ngoài ra, có thể đặt gương ở các vị trí như quay gương về phía tường sau khi đã sử dụng, bố trí gương trong phòng ngủ ở vị trí quay về hướng cửa sổ có cảnh vật đẹp hoặc treo gương đối diện với những bức tranh sinh động.</p>\n<h2><strong>3. Gợi ý decor phòng ngủ đẹp kèm ảnh thực tế </strong></h2>\n<p>Để decor phòng ngủ đẹp, trước tiên bạn cần có một căn phòng ngủ tiện nghi, đáp ứng được nhu cầu sinh hoạt và đảm bảo công năng.</p>\n<p><img src=\"https://bizweb.dktcdn.net/100/501/740/files/3-8744c313-b3b6-41ce-92d6-394c41a6c527.jpg?v=1701362192233\" alt=\"\" loading=\"lazy\"></p>\n<h3><strong>3.1 Mẫu decor phòng ngủ nhẹ nhàng, lãng mạn </strong></h3>\n<p>Decor phòng ngủ xuất phát từ tình yêu với kiến trúc Pháp của gia chủ, cùng với vẻ đẹp giản dị từ các vật liệu thô mộc của Việt Nam, gia chủ và nhóm KTS đã lên ý tưởng với những thiết kế ấn tượng độc đáo mà rất lãng mạn. Phòng ngủ được đặt tại tầng 2 trong ngôi nhà 3 tầng, gồm phòng ngủ master dành cho bố mẹ, phòng ngủ của con nhỏ.</p>\n<p>Mây và gỗ tự nhiên được dùng trong hầu hết các đồ nội thất, tạo nên không gian nhẹ nhàng, mộc mạc, hoài cổ nhưng không kém phần hiện đại.</p>\n<p>Phòng ngủ đáp ứng đầy đủ các tiêu chí về phong thủy, tính thẩm mỹ cao thể hiện ở sự chỉn chu trong thiết kế, phối màu phù hợp theo mong muốn của gia chủ.</p>\n<h3><strong>3.2 Mẫu decor phòng ngủ cho người yêu thích màu đen huyền bí</strong></h3>\n<p>House at Shelford Road là ngôi nhà phố nằm ở cuối đường cụt, được xây dựng với 4 tầng. Tầng 1 gồm các không gian sinh hoạt chung như phòng khách, bếp, ăn, bể bơi… Tầng 2 gồm sân ngoài trời, phòng piano, phòng cho khách… Tầng 3 gồm các không gian cá nhân hơn như phòng ngủ, phòng gia đình, phòng thay đồ… Đặc biệt, tầng 4 gồm phòng gym, phòng đa chức năng.</p>\n<p>Chúng ta chú ý hơn đến decor phòng ngủ tại khu vực tầng 3. Gia chủ là người yêu thích màu đen, đề cao một không gian sống chất lượng với hệ thống thông gió tự nhiên. Do đó, việc sắp xếp nội thất, trang trí cho không gian căn phòng này cũng tuân theo tiêu chí đó.</p>\n<p>Ánh sáng, màu sắc, cách sắp xếp các đồ nội thất trong phòng ngủ hài hòa sẽ giúp gia chủ có một không gian nghỉ ngơi trọn vẹn và thoải mái nhất. Một nơi đáng để về sau những giờ phút mệt nhoài ngoài cánh cửa.</p>\n<h3><strong>3.3 Mẫu decor phòng ngủ phong cách nhẹ nhàng cho nhà có trẻ nhỏ</strong></h3>\n<p>“Cuộc sống ngoài kia đã đủ mệt, nhà sẽ là nơi chữa lành tất cả. Nhà là nơi mà mọi bão giông dừng lại sau cánh cửa, nhà là nơi trở về để được yêu thương. Để dù cho có bất cứ điều gì xảy đến, chỉ cần có nhau thì ngày dài tháng rộng về sau sẽ đều là an yên.” &#8211; Gia chủ chia sẻ.</p>\n<p>Nắm được mong muốn của gia chủ, đội ngũ KTS đã lên ý tưởng và thiết kế tổng thể ngôi nhà theo phong cách nhẹ nhàng, đơn giản để các bé có tuổi thơ vui vẻ trọn vẹn trong căn nhà mới.</p>\n<p>Cùng với việc decor các phòng ngủ trong ngôi nhà tạo sự nhẹ nhàng thì những đường cong trên trần nhà, cửa, tường cũng giúp tổng thể không gian trở nên mềm mại, hài hoà thị giác, giảm độ thô cứng hơn.</p>\n<h3><strong>3.4 Mẫu decor phòng ngủ nhỏ phong cách hiện đại</strong></h3>\n<p>Up House là ngôi nhà 1 tầng nằm tại Sóc Sơn, Hà Nội. Công trình gồm 5 khối độc lập được thiết kế để đáp ứng nhu cầu sinh hoạt của gia đình 3 thế hệ. Để tiết kiệm chi phí xây dựng, Up House ưu tiên sử dụng các vật liệu địa phương và những giải pháp tiết kiệm năng lượng chiếu sáng, năng lượng gió&#8230; Điều này được thể hiện ở thiết kế phòng ngủ:</p>\n<p>Nếu không có quá nhiều kinh phí nhưng vẫn đảm bảo công năng sử dụng, sự tiên nghi cho gia đình, bạn có thể tham khảo cách decor phòng ngủ này nhé.</p>",
+   "excerpt": "Bạn đang tìm kiếm ý tưởng decor phòng ngủ? Bạn muốn tham khảo nhiều phong cách trang trí phòng ngủ đẹp và chi tiết nhất? Tham khảo hướng dẫn decor phòng ngủ dưới đây để tìm ra ý tưởng trang trí phù hợp nhất với bạn nhé. 1. Lưu ý trước khi decor phòng ngủ…",
+   "image": "/uploads/2026/11/product-2-bg.webp",
+   "date": "2025-04-22 15:35:26",
+   "cats": [
+    "kien-thuc-noi-that"
+   ]
+  }
+ ],
+ "pages": [
+  {
+   "wpId": 5,
+   "slug": "cua-hang",
+   "title": "Sản phẩm",
+   "content": "",
+   "parent": 0,
+   "template": "shop",
+   "order": 0
+  },
+  {
+   "wpId": 6,
+   "slug": "gio-hang",
+   "title": "Giỏ hàng",
+   "content": "<div class=\"wp-block-woocommerce-cart alignwide is-loading\">\n<div class=\"wp-block-woocommerce-filled-cart-block\">\n<div class=\"wp-block-woocommerce-cart-items-block\">\n<div class=\"wp-block-woocommerce-cart-line-items-block\"></div>\n\n<div class=\"wp-block-woocommerce-product-collection\">\n\n</div>\n</div>\n\n<div class=\"wp-block-woocommerce-cart-totals-block\">\n<div class=\"wp-block-woocommerce-cart-order-summary-block\">\n<div class=\"wp-block-woocommerce-cart-order-summary-heading-block\"></div>\n\n<div class=\"wp-block-woocommerce-cart-order-summary-coupon-form-block\"></div>\n\n<div class=\"wp-block-woocommerce-cart-order-summary-subtotal-block\"></div>\n\n<div class=\"wp-block-woocommerce-cart-order-summary-fee-block\"></div>\n\n<div class=\"wp-block-woocommerce-cart-order-summary-discount-block\"></div>\n\n<div class=\"wp-block-woocommerce-cart-order-summary-shipping-block\"></div>\n\n<div class=\"wp-block-woocommerce-cart-order-summary-taxes-block\"></div>\n</div>\n\n<div class=\"wp-block-woocommerce-cart-express-payment-block\"></div>\n\n<div class=\"wp-block-woocommerce-proceed-to-checkout-block\"></div>\n\n<div class=\"wp-block-woocommerce-cart-accepted-payment-methods-block\"></div>\n</div>\n</div>\n\n<div class=\"wp-block-woocommerce-empty-cart-block\">\n\n<div style=\"height:40px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n</div>\n</div>",
+   "parent": 0,
+   "template": "cart",
+   "order": 0
+  },
+  {
+   "wpId": 7,
+   "slug": "thanh-toan",
+   "title": "Thanh toán",
+   "content": "<div class=\"wp-block-woocommerce-checkout alignwide wc-block-checkout is-loading\">\n<div class=\"wp-block-woocommerce-checkout-fields-block\">\n<div class=\"wp-block-woocommerce-checkout-express-payment-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-contact-information-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-shipping-method-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-pickup-options-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-shipping-address-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-billing-address-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-shipping-methods-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-payment-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-additional-information-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-order-note-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-terms-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-actions-block\"></div>\n</div>\n\n<div class=\"wp-block-woocommerce-checkout-totals-block\">\n<div class=\"wp-block-woocommerce-checkout-order-summary-block\">\n<div class=\"wp-block-woocommerce-checkout-order-summary-cart-items-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-order-summary-coupon-form-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-order-summary-subtotal-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-order-summary-fee-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-order-summary-discount-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-order-summary-shipping-block\"></div>\n\n<div class=\"wp-block-woocommerce-checkout-order-summary-taxes-block\"></div>\n</div>\n</div>\n</div>",
+   "parent": 0,
+   "template": "checkout",
+   "order": 0
+  },
+  {
+   "wpId": 8,
+   "slug": "tai-khoan",
+   "title": "Tài khoản",
+   "content": "[woocommerce_my_account]",
+   "parent": 0,
+   "template": "account",
+   "order": 0
+  },
+  {
+   "wpId": 95,
+   "slug": "chinh-sach-bao-hanh",
+   "title": "Chính sách bảo hành",
+   "content": "<p><strong>1. Thời gian bảo hành</strong></p>\n<ul>\n<li><strong>Sofa</strong>: 36 tháng đối với các lỗi kỹ thuật từ nhà sản xuất.</li>\n<li><strong>Nội thất gỗ công nghiệp</strong>: 12 tháng đối với các lỗi kỹ thuật từ nhà sản xuất.</li>\n</ul>\n<p><strong>2. Thời điểm tính bảo hành</strong></p>\n<ul>\n<li>Thời gian bảo hành được tính <strong>từ ngày giao hàng</strong> cho khách hàng.</li>\n</ul>\n<p><strong>3. Phạm vi bảo hành</strong></p>\n<p>Chúng tôi bảo hành đối với các lỗi phát sinh từ quá trình sản xuất, bao gồm:</p>\n<ul>\n<li>Lỗi kỹ thuật, kết cấu sản phẩm.</li>\n<li>Lỗi do vật liệu không đạt tiêu chuẩn theo cam kết.</li>\n</ul>\n<p><strong>4. Trường hợp không thuộc phạm vi bảo hành</strong></p>\n<p>Chúng tôi không chịu trách nhiệm bảo hành trong các trường hợp sau:</p>\n<ul>\n<li>Hao mòn tự nhiên theo thời gian (bạc màu, xỉn màu, ố bẩn do sử dụng…).</li>\n<li>Hư hỏng do sử dụng sai công năng thiết kế (nhảy trên giường/sofa/đệm, nằm ngồi trên bàn, kéo lê sản phẩm trên sàn, để quá tải trọng, …).</li>\n<li>Hư hỏng do đặt sản phẩm ngoài trời hoặc trong môi trường không phù hợp (ẩm thấp, quá nóng, dưới nắng mưa trực tiếp…).</li>\n<li>Tự ý tháo lắp, thay đổi kết cấu hoặc sửa chữa sản phẩm bởi bên thứ ba mà không có sự đồng ý của chúng tôi.</li>\n</ul>\n<p><strong>5. Điều kiện bảo hành</strong></p>\n<ul>\n<li>Khách hàng cần cung cấp <strong>hóa đơn mua hàng hoặc thông tin đơn hàng</strong> khi yêu cầu bảo hành.</li>\n<li>Sản phẩm còn trong thời gian bảo hành theo quy định.</li>\n</ul>\n<p><strong>6. Hình thức bảo hành</strong></p>\n<ul>\n<li>Tùy theo tình trạng, sản phẩm sẽ được <strong>sửa chữa hoặc thay thế linh kiện</strong> mà không tính phí trong phạm vi bảo hành.</li>\n<li>Trong trường hợp không thể sửa chữa, chúng tôi có thể đổi sản phẩm tương đương theo thỏa thuận.</li>\n</ul>",
+   "parent": 0,
+   "template": "",
+   "order": 0
+  },
+  {
+   "wpId": 96,
+   "slug": "chinh-sach-thanh-toan",
+   "title": "Chính sách thanh toán",
+   "content": "<p><strong>1. Thanh toán tiền mặt.</strong></p>\n<p><strong>Thanh toán tiền mặt</strong><strong> </strong><strong>tại nhà khi nhận hàng thông qua hình thức giao hàng trực tiếp</strong></p>\n<p>Khi nhân viên giao hàng, khách hàng kiểm tra sản phẩm, hàng nhận hàng và thanh toán trực tiếp cho nhân viên giao hàng theo giá trị tiền trên hóa đơn. Ngoài ra khách hàng không phải thanh toán bất kỳ 1 chi phí nào khác.</p>",
+   "parent": 0,
+   "template": "",
+   "order": 0
+  },
+  {
+   "wpId": 97,
+   "slug": "chinh-sach-van-chuyen",
+   "title": "Chính sách vận chuyển",
+   "content": "<p><strong>1. Các phương thức giao hàng</strong></p>\n<p>Khách hàng mua trực tiếp hàng tại cửa hàng của chúng tôi.</p>\n<p>Ship hàng qua các đơn vị vận chuyển.</p>\n<p><strong>2. Thời hạn ước tính cho việc giao hàng.</strong></p>\n<ul>\n<li>Khu vực Thành phố Hồ Chí Minh: 1–2 ngày làm việc.</li>\n<li>Khu vực tỉnh/thành khác: 2–5 ngày làm việc tùy vị trí địa lý.</li>\n</ul>\n<p>Tuy nhiên, cũng có trường hợp việc giao hàng kéo dài hơn nhưng chỉ xảy ra trong những tình huống bất khả kháng như sau:<br>\n– Nhân viên chúng tôi liên lạc với khách hàng qua điện thoại không được nên không thể giao hàng.<br>\n– Địa chỉ giao hàng bạn cung cấp không chính xác hoặc khó tìm.<br>\n– Số lượng đơn hàng tăng đột biến khiến việc xử lý đơn hàng bị chậm.<br>\n– Đối tác cung cấp hàng chậm hơn dự kiến khiến việc giao hàng bị chậm lại hoặc đối tác vận chuyển giao hàng bị chậm<br>\n<strong>3. Các giới hạn về mặt địa lý cho việc giao hàng.</strong></p>\n<p>Riêng khách tỉnh có nhu cầu mua số lượng lớn hoặc khách buôn sỉ nếu có nhu cầu mua sản phẩm, chúng tôi sẽ nhờ dịch vụ giao nhận của các công ty vận chuyển và phí sẽ được tính theo phí của các đơn vị cung cấp dịch vụ vận chuyển hoặc theo thoả thuận hợp đồng giữa 2 bên.</p>\n<p><strong>4. Phân định trách nhiệm của thương nhân, tổ chức cung ứng dịch vụ logistics về cung cấp chứng từ hàng hóa trong quá trình giao nhận.</strong></p>\n<p>Bên giao nhận có trách nhiệm cung cấp chứng từ hàng hoá trong quá trình giao nhận.</p>\n<p>Bên vận chuyển có quyền và trách nhiệm cung cấp hóa đơn cho cơ quan quản lý nhà nước khi có yêu cầu.</p>\n<p>Đơn vị vận chuyển sẽ chịu trách nhiệm vận chuyển hàng hóa theo nguyên tắc “nguyên đai, nguyên kiện”.</p>\n<p>Trên bao bì tất cả các đơn hàng đều có thông tin:</p>\n<p>Thông tin người nhận, bao gồm: tên người nhận, số điện thoại và địa chỉ người nhận.</p>\n<p>Mã vận đơn của đơn hàng.</p>\n<p>Để đảm bảo an toàn cho hàng hóa, <a href=\"https://Nội Thất IRIS/\">Nội Thất IRIS</a> sẽ gửi kèm hóa đơn.</p>\n<p><strong>5. Trách nhiệm về trường hợp hàng bị hư hỏng do quá trình vận chuyển.</strong></p>\n<p>Về việc cung cấp chứng từ hàng hóa trong quá trình giao nhận.</p>\n<p>Đối với hàng hóa bị hư hỏng do quá trình vận chuyển dù là đơn hàng do chính cửa hàng vận chuyển hay do bên thứ 3 vận chuyển thì chúng tôi sẽ là bên đứng ra chịu trách nhiệm giải quyết vấn đề cho khách hàng.</p>\n<p>Khách hàng có quyền từ chối nhận sản phẩm và yêu cầu đổi trả theo quy định “ đổi trả hoàn phí” còn mọi vấn đề phát sinh chúng tôi sẽ làm việc lại với đối tác vận chuyển để giải quyết đền bù cho đơn hàng theo thỏa thuận hợp tác giữa công ty với đối tác thứ 3 cung cấp dịch vụ vận chuyển.</p>\n<p><strong>Lưu ý:</strong><strong> Trường hợp phát sinh chậm trễ trong việc giao hàng chúng tôi sẽ thông tin kịp thời cho khách hàng và khách hàng có thể lựa chọn giữa việc hủy hoặc tiếp tục chờ hàng.</strong></p>",
+   "parent": 0,
+   "template": "",
+   "order": 0
+  },
+  {
+   "wpId": 98,
+   "slug": "chinh-sach-kiem-hang",
+   "title": "Chính sách kiểm hàng",
+   "content": "<p><strong>1.</strong><strong> Định nghĩa.</strong></p>\n<p>Kiểm hàng là thực hiện các công việc kiểm tra và so sánh các sản phẩm/hàng hóa nhận được trong kiện hàng Nội Thất IRIS gửi với các sản phẩm trong đơn hàng mà quý khách hàng yêu cầu.</p>\n<p><strong>2. Thời điểm kiểm hàng.</strong></p>\n<ul>\n<li>Nội Thất IRIS chấp nhận cho khách hàng đồng kiểm với nhân viên giao hàng tại thời điểm nhận hàng (hoặc trong vòng 30p kể từ khi khách nhận được hàng hóa).</li>\n<li>Sau khi nhận hàng, khách hàng kiểm lại phát hiện sai, có thể liên lạc với bộ phận chăm sóc khách hàng để được hỗ trợ đổi trả.</li>\n</ul>\n<p><strong>Lưu ý: Quý khách quay video lúc mở thùng hàng để đối chiếu khi cần thiết.</strong></p>\n<p><strong>3. </strong><strong>Phạm vi kiểm tra hàng hóa.</strong></p>\n<p>Khách hàng được kiểm đếm số lượng sản phẩm thực nhận, đối chiếu, so sánh các sản phẩm nhận được với sản phẩm đã đặt trên đơn sau khi nhân viên xác nhận đơn hàng theo các tiêu chí:</p>\n<ul>\n<li>Theo các thuộc tính cơ bản hàng hóa: tên hàng, số lượng, thông tin của khách hàng trên các giấy tờ của đơn hàng.</li>\n<li>Theo mẫu mã được hiển thị bởi ảnh đại diện của sản phẩm được lưu khi đặt hàng và sau khi được nhân viên xác nhận đơn hàng.</li>\n<li>Tuyệt đối không bóc, mở các hộp sản phẩm có tem niêm phong, tem đảm bảo.</li>\n<li>Không được cào lấy mã các sản phẩm có tích điểm, đổi quà.</li>\n</ul>\n<p>Quý khách hàng vui lòng không bóc và sử dụng các sản phẩm trong kiện hàng khi đang còn vấn đề trong quá trình kiểm tra hàng hóa với chúng tôi.</p>\n<p><strong>4.</strong><strong> Các bước xử lý khi hàng hóa nhận được không như đơn đặt hàng.</strong></p>\n<ul>\n<li>Khi quý khách đồng kiểm, sản phẩm nhận được không như sản phẩm khách đặt trên đơn hàng. Xin hãy liên hệ với <strong>hotline </strong>để được gặp bộ phận chăm sóc khách hàng xác nhận lại đơn hàng.</li>\n<li>Trường hợp đóng sai đơn hàng theo yêu cầu của khách, khách có thể không nhận hàng, không thanh toán. Trong trường hợp đơn hàng đã thanh toán, khách hàng có thể yêu cầu gửi lại đơn mới hay không, Nội Thất IRIS sẽ hoàn lại tiền cho quý khách trong thời gian sớm nhất.</li>\n</ul>",
+   "parent": 0,
+   "template": "",
+   "order": 0
+  },
+  {
+   "wpId": 99,
+   "slug": "chinh-sach-doi-tra",
+   "title": "Chính sách đổi trả",
+   "content": "<h2>1. Điều kiện đổi trả</h2><p>Nội Thất IRIS hỗ trợ đổi trả trong vòng <strong>7 ngày</strong> kể từ ngày nhận hàng với các sản phẩm còn nguyên tem, nhãn, chưa qua sử dụng và không bị hư hỏng do tác động từ phía khách hàng.</p>\n<h2>2. Các trường hợp được đổi mới</h2><ul><li>Sản phẩm bị lỗi kỹ thuật từ nhà sản xuất.</li><li>Sản phẩm giao không đúng mẫu mã, màu sắc, kích thước so với đơn hàng.</li><li>Sản phẩm bị hư hỏng trong quá trình vận chuyển.</li></ul>\n<h2>3. Các trường hợp không áp dụng</h2><ul><li>Sản phẩm đặt làm theo kích thước, chất liệu riêng của khách hàng.</li><li>Sản phẩm đã qua sử dụng, trầy xước hoặc hư hỏng do sử dụng sai hướng dẫn.</li></ul>\n<h2>4. Quy trình đổi trả</h2><p>Quý khách vui lòng liên hệ hotline hoặc gửi email kèm hình ảnh sản phẩm. Nhân viên IRIS sẽ phản hồi trong vòng 24 giờ và hướng dẫn chi tiết các bước tiếp theo.</p>",
+   "parent": 0,
+   "template": "",
+   "order": 0
+  },
+  {
+   "wpId": 100,
+   "slug": "chinh-sach-bao-mat",
+   "title": "Chính sách bảo mật",
+   "content": "<h2>1. Mục đích thu thập thông tin</h2><p>Nội Thất IRIS thu thập thông tin cá nhân (họ tên, số điện thoại, email, địa chỉ) nhằm xử lý đơn hàng, giao hàng và chăm sóc khách hàng.</p>\n<h2>2. Phạm vi sử dụng</h2><p>Thông tin chỉ được sử dụng nội bộ cho mục đích bán hàng, bảo hành và gửi thông tin khuyến mãi khi quý khách đồng ý.</p>\n<h2>3. Cam kết bảo mật</h2><p>Chúng tôi cam kết không chia sẻ, bán hoặc cho thuê thông tin cá nhân của khách hàng cho bất kỳ bên thứ ba nào, trừ khi có yêu cầu từ cơ quan nhà nước có thẩm quyền.</p>\n<h2>4. Quyền của khách hàng</h2><p>Quý khách có quyền yêu cầu kiểm tra, cập nhật hoặc xóa thông tin cá nhân bằng cách liên hệ với chúng tôi qua hotline hoặc email.</p>",
+   "parent": 0,
+   "template": "",
+   "order": 0
+  },
+  {
+   "wpId": 101,
+   "slug": "thuoc-lo-ban",
+   "title": "Thước lỗ ban",
+   "content": "Thước Lỗ Ban 52.2cm: Khoảng không thông thủy (cửa, cửa sổ&#8230;)\n\t\t\t\t\t\t\tĐộ dài 6.2 cm thuộc Cung <b>THÔNG MINH</b> nằm trong khoảng  <b>QUÝ NHÂN</b> &#8211; <b>TỐT</b>: (Gặp khoảng này gia cảnh được khả quan, làm ăn phát đạt, bạn bè trung thành, con cái thông minh hiếu thảo).\n\t\t\t\t\t\t\tThước Lỗ Ban 42.9cm (Dương trạch): Khối xây dựng (bếp, bệ, bậc&#8230;)\n\t\t\t\t\t\t\tĐộ dài 6.2 cm thuộc Cung <b>THOÁI TÀI</b> (Hao tốn tiền của, làm ăn thua lỗ) nằm trong khoảng  <b>BỆNH</b> &#8211; <b>XẤU</b> <br>Khoảng <b>BỆNH</b> ứng đặc biệt vào nhà vệ sinh. Nơi này thường là góc hung (xấu) của nhà. Cửa lọt vào chữ Bệnh sẽ thuận lợi cho bệnh tật sinh ra.\n\t\t\t\t\t\t\tThước Lỗ Ban 38.8cm (Âm phần): Đồ nội thất (bàn thờ, tủ&#8230;)\n\t\t\t\t\t\t\tĐộ dài 6.2 cm thuộc Cung <b>TỬ TUYỆT (TỬ HUYỆT)</b> (Rất xấu, người chết, tổn thất chia lìa đến nhanh chóng) nằm trong khoảng  <b>HẠI</b> &#8211; <b>XẤU</b>\n</p>\n\t\t\t\t\t\t\tHướng dẫn xem Thước Lỗ Ban\n<p>\n\t\t\t\t\t\t\t\t<strong>Thước Lỗ ban</strong> là cây thước được lấy tên gọi từ một bậc thầy phong thủy tên là Lỗ Ban &#8211; Ông Tổ nghề mộc lừng danh ở Trung Quốc thời Xuân Thu phát minh ra. Nhưngtrên thực tế, trong ngành địa lý cổ phương Đông, ngoài thước Lỗ Ban (Lỗ Ban xích) còn có nhiều loạithước khác được áp dụng như thước Áp Bạch (Áp Bạch xích), thước Đinh Lan (Đinh Lan xích), bản thân thướcLỗ ban cũng bao gồm nhiều phiên bản khác nhau được sử dụng như thước lỗ bản 52,2 cm; 42,9 cm; 38.8 cm. Trên Thước Lỗ Ban đó có phân định các khoảng tốt &#8211; xấu, giúp người sử dụng biết được kích thước nào là đẹp nên sử dụng, kích thước nào là xấu nên tránh. Thước Lỗ Ban được sáng tạo, sử dụng và đúc kết thử nghiệm qua cả ngàn đời nay định hai chữ tốt – xấu. Dĩ nhiên chỉ bằng một cây thước làm sao cải đổi được vận mệnh, nhưng có lẽ qua chính sự áp dụng ấy mà tai họa có ập đến thì bị giảm trừ đi, lộc phúc có về thì được nhân lên gấp bội.\n\t\t\t\t\t\t\t</p>\n<p>Do có nhiều bài viết, thông tin về thước Lỗ ban có các kích thước khác nhau. Ở đây chúng tôi chỉ giớithiệu 3 loại thước phổ biến nhất trên thị trường Việt Nam hiện nay là loại kích thước Lỗ Ban 52,2 cm;42,9 cm và 38,8 cm.</p>\n<p>&#8211; Đo kích thước rỗng (thông thủy): Thước Lỗ Ban 52,2 cm</p>\n<p>&#8211; Đo kích thước đặc: khối xây dựng (bếp, bệ, bậc…): Thước Lỗ Ban 42,9 cm</p>\n<p>&#8211; Đo Âm phần: mồ mả, đồ nội thất (bàn thờ, tủ thờ, khuôn khổ bài vị…): Thước Lỗ Ban 38,3 cm</p>\n</p>\n</p>",
+   "parent": 0,
+   "template": "",
+   "order": 0
+  },
+  {
+   "wpId": 102,
+   "slug": "trang-chu",
+   "title": "Trang chủ",
+   "content": "<!-- Nội dung trang chủ chỉnh trong Giao diện → Tùy biến → IRIS – Nội dung website -->",
+   "parent": 0,
+   "template": "home",
+   "order": 0
+  },
+  {
+   "wpId": 103,
+   "slug": "gioi-thieu",
+   "title": "Về chúng tôi",
+   "content": "",
+   "parent": 0,
+   "template": "about",
+   "order": 0
+  },
+  {
+   "wpId": 104,
+   "slug": "lien-he",
+   "title": "Liên hệ",
+   "content": "",
+   "parent": 0,
+   "template": "contact",
+   "order": 0
+  },
+  {
+   "wpId": 105,
+   "slug": "blog",
+   "title": "Blog kiến thức",
+   "content": "",
+   "parent": 0,
+   "template": "blog",
+   "order": 0
+  }
+ ],
+ "testimonials": [
+  {
+   "name": "Triệu Linh",
+   "role": "CEO Công ty Giáo dục",
+   "content": "<strong>Sofa Ciara</strong> là một dòng sofa cao cấp nổi bật với <strong>thiết kế tinh tế, không cầu kỳ</strong> nhưng vẫn thể hiện được sự <strong>sang trọng và đẳng cấp</strong>. Sản phẩm đặc biệt phù hợp với <strong>không gian nội thất tối giản</strong> và sử dụng tone màu lạnh, như trong các căn hộ <strong>penthouse</strong> hoặc không gian sống hiện đại.",
+   "image": "/uploads/2026/11/kal-visuals-jd6hnk1qsje-unsplash.webp",
+   "order": 0
+  },
+  {
+   "name": "Triệu Linh",
+   "role": "CEO Công ty Giáo dục",
+   "content": "<strong>Sofa Ciara</strong> là một dòng sofa cao cấp nổi bật với <strong>thiết kế tinh tế, không cầu kỳ</strong> nhưng vẫn thể hiện được sự <strong>sang trọng và đẳng cấp</strong>. Sản phẩm đặc biệt phù hợp với <strong>không gian nội thất tối giản</strong> và sử dụng tone màu lạnh, như trong các căn hộ <strong>penthouse</strong> hoặc không gian sống hiện đại.",
+   "image": "/uploads/2026/11/kal-visuals-jd6hnk1qsje-unsplash.webp",
+   "order": 1
+  },
+  {
+   "name": "Triệu Linh",
+   "role": "CEO Công ty Giáo dục",
+   "content": "<strong>Sofa Ciara</strong> là một dòng sofa cao cấp nổi bật với <strong>thiết kế tinh tế, không cầu kỳ</strong> nhưng vẫn thể hiện được sự <strong>sang trọng và đẳng cấp</strong>. Sản phẩm đặc biệt phù hợp với <strong>không gian nội thất tối giản</strong> và sử dụng tone màu lạnh, như trong các căn hộ <strong>penthouse</strong> hoặc không gian sống hiện đại.",
+   "image": "/uploads/2026/11/kal-visuals-jd6hnk1qsje-unsplash.webp",
+   "order": 2
+  },
+  {
+   "name": "Triệu Linh",
+   "role": "CEO Công ty Giáo dục",
+   "content": "<strong>Sofa Ciara</strong> là một dòng sofa cao cấp nổi bật với <strong>thiết kế tinh tế, không cầu kỳ</strong> nhưng vẫn thể hiện được sự <strong>sang trọng và đẳng cấp</strong>. Sản phẩm đặc biệt phù hợp với <strong>không gian nội thất tối giản</strong> và sử dụng tone màu lạnh, như trong các căn hộ <strong>penthouse</strong> hoặc không gian sống hiện đại.",
+   "image": "/uploads/2026/11/kal-visuals-jd6hnk1qsje-unsplash.webp",
+   "order": 3
+  }
+ ],
+ "payments": {
+  "cod": {
+   "enabled": "yes",
+   "title": "Thanh toán khi nhận hàng (COD)",
+   "description": "Trả tiền mặt khi nhận hàng.",
+   "instructions": "Trả tiền mặt khi nhận hàng."
+  },
+  "bacs": {
+   "enabled": "yes",
+   "title": "Chuyển khoản ngân hàng"
+  },
+  "bacsAccounts": []
+ }
+}

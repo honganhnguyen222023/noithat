@@ -1,0 +1,114 @@
+/* Bản Node: giỏ hàng, thanh toán, tài khoản, trang đặt hàng xong (bản WordPress dùng CSS của WooCommerce).
+   Dùng lại màu / font của theme IRIS (biến --color-* trong app.css). */
+
+.wc-page { min-width: 0; }
+.ns-card { background: #fff; border-radius: 14px; padding: 24px; box-shadow: 0 1px 2px rgb(0 0 0 / .04); }
+.ns-card.ns-flush { padding: 0; overflow: hidden; }
+.ns-card h2, .ns-h2 { font-size: 20px; font-weight: 700; color: var(--color-ink); margin: 0 0 16px; }
+.ns-h2 { margin-top: 28px; }
+.ns-card h3 { font-size: 17px; font-weight: 700; margin: 22px 0 10px; }
+.ns-muted { color: #737373; font-size: 14px; }
+.ns-info { background: #f8f5ef; border-left: 4px solid var(--color-gold); border-radius: 8px; padding: 10px 14px; margin-bottom: 16px; font-size: 15px; }
+.ns-link { display: inline-flex; align-items: center; gap: 6px; color: var(--color-gold); font-weight: 600; }
+.ns-link:hover { color: var(--color-gold-dark); }
+.ns-block { display: flex !important; width: 100%; justify-content: center; margin-top: 16px; }
+.ns-btn-sm { height: 34px !important; padding: 0 14px !important; font-size: 14px !important; }
+.ns-empty { background: #fff; border-radius: 14px; padding: 48px 20px; text-align: center; display: flex; flex-direction: column; align-items: center; gap: 14px; color: #737373; }
+.ns-empty p { font-size: 17px; }
+
+/* Form */
+.ns-grid-2 { display: grid; gap: 0 16px; }
+@media (min-width: 640px) { .ns-grid-2 { grid-template-columns: 1fr 1fr; } }
+.ns-checkout .field, .ns-form .field, .ns-auth .field { margin-bottom: 14px; }
+.ns-form fieldset { border: 1px solid #e5e5e5; border-radius: 10px; padding: 14px 16px 4px; margin: 10px 0 18px; }
+.ns-form legend { font-weight: 700; padding: 0 6px; }
+.ns-check { display: flex; align-items: center; gap: 8px; cursor: pointer; font-size: 15px; }
+.ns-check input { width: 18px; height: 18px; accent-color: var(--color-gold); }
+.ns-collapse { margin-top: 12px; }
+.field input:disabled { background: #f3f3f3; color: #777; }
+.field small { display: block; margin-top: 4px; }
+
+/* Bảng */
+.ns-table { width: 100%; border-collapse: collapse; font-size: 15px; }
+.ns-table th, .ns-table td { padding: 14px 16px; border-bottom: 1px solid #eee; text-align: left; vertical-align: middle; }
+.ns-table thead th { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: #777; background: #faf9f7; }
+.ns-table tfoot th { font-weight: 600; color: #555; }
+.ns-table .ns-num { text-align: right; white-space: nowrap; }
+.ns-table tr.ns-total th, .ns-table tr.ns-total td { font-size: 18px; font-weight: 700; color: var(--color-gold); border-bottom: 0; }
+.ns-table small { display: block; color: #777; font-size: 13px; }
+.ns-line { display: flex; align-items: center; gap: 12px; }
+.ns-line img { width: 56px; height: 56px; object-fit: contain; background: #f5f3ef; border-radius: 8px; flex: none; }
+
+/* Giỏ hàng */
+.ns-cart { display: grid; gap: 24px; align-items: start; }
+@media (min-width: 1024px) { .ns-cart { grid-template-columns: 1fr 360px; } }
+.ns-cart-product { display: flex; align-items: center; gap: 14px; }
+.ns-cart-product small { display: block; color: #777; font-size: 13px; margin-top: 2px; }
+.ns-thumb { width: 72px; height: 72px; flex: none; background: #f5f3ef; border-radius: 10px; overflow: hidden; display: block; }
+.ns-thumb img { width: 100%; height: 100%; object-fit: contain; }
+.ns-qty { display: inline-flex; height: 40px; border: 1px solid #d4d4d4; border-radius: 4px; background: #fff; align-items: center; }
+.ns-qty input { width: 44px; height: 100%; text-align: center; background: transparent; -moz-appearance: textfield; }
+.ns-qty input::-webkit-inner-spin-button { -webkit-appearance: none; }
+.ns-remove { width: 32px; height: 32px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; color: #999; border: 1px solid #e5e5e5; }
+.ns-remove:hover { color: #b42318; border-color: #b42318; }
+.ns-cart-actions { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; padding: 16px; }
+.ns-mobile-price { display: none; }
+.ns-totals dl { display: grid; grid-template-columns: 1fr auto; gap: 10px 16px; margin: 0; }
+.ns-totals dd { margin: 0; text-align: right; }
+.ns-totals .ns-total { font-size: 19px; font-weight: 700; color: var(--color-gold); padding-top: 10px; border-top: 1px solid #eee; }
+@media (max-width: 639px) {
+  .ns-hide-sm { display: none; }
+  .ns-mobile-price { display: block; font-size: 14px; color: #777; }
+  .ns-cart-table th, .ns-cart-table td { padding: 12px 8px; }
+  .ns-cart-table thead { display: none; }
+}
+
+/* Thanh toán */
+.ns-checkout { display: grid; gap: 24px; align-items: start; }
+@media (min-width: 1024px) { .ns-checkout { grid-template-columns: 1fr 440px; } .ns-review { position: sticky; top: 110px; } }
+.ns-review .ns-table td, .ns-review .ns-table th { padding: 12px 0; }
+.ns-pay { display: grid; gap: 10px; }
+.ns-pay-opt { display: flex; gap: 12px; align-items: flex-start; border: 1px solid #e0ddd6; border-radius: 10px; padding: 12px 14px; cursor: pointer; }
+.ns-pay-opt:has(input:checked) { border-color: var(--color-gold); background: #fbf8f2; box-shadow: 0 0 0 1px var(--color-gold); }
+.ns-pay-opt input { margin-top: 4px; accent-color: var(--color-gold); width: 18px; height: 18px; flex: none; }
+.ns-pay-opt small { display: block; color: #777; font-size: 14px; margin-top: 2px; }
+
+/* Đặt hàng xong / chi tiết đơn */
+.ns-order-overview { display: flex; flex-wrap: wrap; margin: 0 0 20px; padding: 0; list-style: none; border: 1px dashed #d8c49d; border-radius: 10px; }
+.ns-order-overview li { flex: 1 1 160px; padding: 12px 16px; font-size: 13px; color: #777; text-transform: uppercase; border-right: 1px dashed #d8c49d; }
+.ns-order-overview li:last-child { border-right: 0; }
+.ns-order-overview strong { display: block; font-size: 15px; color: var(--color-ink); text-transform: none; margin-top: 2px; }
+.ns-address { margin-top: 20px; }
+.ns-address h2 { font-size: 18px; }
+.ns-bank { background: #fff; border-radius: 14px; padding: 24px; margin-bottom: 20px; border: 2px solid var(--color-gold-light); }
+.ns-bank h2 { font-size: 20px; font-weight: 700; color: var(--color-gold); margin: 0 0 8px; }
+.ns-bank-acc { display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 16px; }
+.ns-bank-acc img { border-radius: 10px; border: 1px solid #eee; }
+.ns-bank dl { display: grid; grid-template-columns: auto 1fr; gap: 6px 16px; margin: 0; }
+.ns-bank dt { color: #777; }
+.ns-bank dd { margin: 0; }
+
+/* Nhãn trạng thái */
+.ns-badge { display: inline-block; padding: 3px 10px; border-radius: 999px; font-size: 13px; font-weight: 600; }
+.ns-badge.is-warn { background: #fff2d6; color: #9a5b00; }
+.ns-badge.is-info { background: #e6effb; color: #1e5aa8; }
+.ns-badge.is-ok { background: #e5f4ec; color: #157a4f; }
+.ns-badge.is-mute { background: #eee; color: #666; }
+
+/* Tài khoản */
+.ns-account { display: grid; gap: 24px; align-items: start; }
+@media (min-width: 1024px) { .ns-account { grid-template-columns: 240px 1fr; } }
+.ns-account-nav { background: #fff; border-radius: 14px; padding: 8px; display: flex; flex-direction: column; }
+.ns-account-nav a { padding: 11px 14px; border-radius: 8px; font-weight: 600; }
+.ns-account-nav a:hover { color: var(--color-gold); }
+.ns-account-nav a.is-active { background: var(--color-gold); color: #fff; }
+@media (max-width: 1023px) { .ns-account-nav { flex-direction: row; overflow-x: auto; } .ns-account-nav a { white-space: nowrap; } }
+.ns-auth { max-width: 480px; margin: 0 auto; }
+.ns-auth-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; }
+.ns-auth-switch { text-align: center; margin-top: 18px; padding-top: 16px; border-top: 1px solid #eee; }
+.ns-auth-switch a { color: var(--color-gold); font-weight: 700; }
+
+/* Thẻ sản phẩm: nút đang thêm vào giỏ */
+[data-add-to-cart].loading { opacity: .6; pointer-events: none; }
+[data-add-to-cart].added { border-color: var(--color-gold); color: var(--color-gold); }
+.single_add_to_cart_button.disabled { opacity: .5; cursor: not-allowed; }

@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+*.log
+.DS_Store
+.env
+.env.local
+# Cơ sở dữ liệu trên máy (tạo lại bằng: npm run setup)
+prisma/*.db
+prisma/*.db-journal
+# Ảnh quản trị tải lên
+public/uploads/media/
+tsconfig.tsbuildinfo
+next-env.d.ts
